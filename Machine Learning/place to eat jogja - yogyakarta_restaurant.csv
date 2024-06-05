@@ -1,0 +1,395 @@
+resto_id,nama_restoran,preferensi_makanan,lokasi_restoran,Harga_Rata-Rata_Makanan_di_Toko (Rp),rating_toko,jenis_suasana,toko_sering_diskon_(Ya/Tidak),variasi_makanan,pelayanan_khusus_pasangan_(Ya/Tidak),entertainment,keramaian_restoran,disajikan/ambil_sendiri,all_you_can_eat/ala_carte,Lokasi
+RT01J1,"Mie Bandung Chinese Food, Ngampilan",Chinese,3.23 km,39000,4.7,Santai,Tidak,"Bakmi, Nasi Goreng, Mie Ayam, Kwetiaw, Bakso Pangsit, Udang Goreng, Sop Ayam, Cumi Goreng, Capjay, Ayam Kecap",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/yEFoAbWDFhBcanBZ9
+RT02J1,"Soto Tauco Pekalongan Bu Iswi, Jalan Bimokurdo No.46, Gondokusuman, Demangan",Indonesia,3.01 km,19000,3.7,Santai,Tidak,"Bakso, Soto Tauco, Lontong, Es Teh, Es Jeruk, Teh Hangat",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/j9gT3yrbncuXKaC48
+RT03J1,"Bakso Urat dan Mie Ayam ""Pak Mir""",Indonesia,1.44 km,18000,3.6,Santai,Tidak,"Bakso, Sop Ayam, Jajanan, Es Jeruk, Es Teh",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/HLC7w9tvJ9wzLMNWA
+RT04J1,Soto Ayam Kampung Dan Soto Daging Sapi Pak Gendut,Indonesia,0.83 km,22000,3.8,Santai,Tidak,"Soto Daging, Soto Ayam, Perkedel, Es Teh, Es Jeruk",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/rfywQEnYXS61CDRj6
+RT05J1,Toba Tabo,Chinese,2.13 km,40000,4.7,Santai,Tidak,"Sate Babi, Babi Kecap, Bakmi Babi, Kopi, Es Kopi, Es Teh",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/oJM1xoJi1ttNvh9r7
+RT06J1,Sop Ayam Klaten Seturan,Indonesia,3.1 km,16000,4.5,Santai,Tidak,"Sop Ayam, Tempe Goreng, Sate Telur, Teh Panas, Es Jeruk, Air Mineral",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/kxKdSA2ciEN6cn8u9
+RT07J1,"Mochi Sakura, Plaza Ambarukmo",Japanese,3.73 km,41000,4.2,Santai,Ya,Mochi,Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/BAvqoP8TTZjdg1sb9
+RT08J1,"Martabak Okonomiyaki BAMLY, Sonopakis",Japanese,5.58 km,25000,4.6,Santai,Ya,"Martabak, Okonomiyaki, Lemon Tea, Apple Tea",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/CDQ3n5s46B3ZjnFb7
+RT09J1,"Nasi Goreng Gemilang, Gedongkuning",Chinese,1.97 km,19000,4.7,Santai,Ya,"Nasi Goreng, Bihun Goreng, Kwetiaw, Fuyunghay, Ayam Penyet, Es Jeruk, Es Teh, Nutrisari",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/a13SZq59zGNyHu357
+RT10J1,"Restoran Mahkota (Tiong San), Pajeksan",Chinese,3.17 km,132000,4.7,Santai,Tidak,"Bihun Goreng, Bihun Kuah, Mie Goreng, Sup Bibir Ikan, Gurame Goreng, Babi Kecap, Sate Babi, Ayam Goreng",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/LphJVYuXFuAHcTyP6
+RT11J1,"Soto Pak Zaenal Barokah, Warungboto Umbulharjo",Indonesia,0.65 km,15000,4.5,Santai,Tidak,"Bakso, Soto Daging, Soto Ayam, Perkedel, Penyek, Tempe Goreng, Sate Usus, Sate Telur, Lontong, Es Teh, Es Jeruk",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/qoTB6muZQ2xu5au3A
+RT12J1,"Gyudel Bowl & Nasi Goreng, Depok",Japanese,5.2 km,29000,4.7,Formal,Tidak,"Nasi Goreng, Nasi Rames, Es Teh Serai, Lemon Tea",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/7gCqtHAPS1Uer2o6A
+RT13J1,"Sushi Story, Gejayan",Japanese,5.76 km,62000,4.6,Formal,Tidak,"Shusi, Macha Tea, Tempura",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Y15WzXPE7HjvvUnG6
+RT14J1,"Burgerax, Imogiri Timur",Western,3.24 km,38000,4.6,Santai,Tidak,"Burger, Coca-Cola",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/4rd73C4gZ1QTwVcn9
+RT15J1,"Yamie Panda, Cokroaminoto",Chinese,4.3 km,28000,4.7,Santai,Ya,"Mie Yamin, Es Teh",Ya,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/J6DyhDyoSZ5Dazvx9
+RT16J1,"Kedai Mie Nyinyir, Sorogenen",Indonesia,1.46 km,22000,4.7,Santai,Ya,"Mie Goreng, Dimsum",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/2WvcKKWwJ8FsUtmG9
+RT17J1,"Dudidu Dimsum, ISI",Chinese,5.54 km,40000,4.6,Santai,Ya,"Dimsum, Gohyong",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/xMvgKH7sVtEUdEYg9
+RT18J1,"Kwetiaw Goreng Dan Nasi Goreng Seafood Makjoss, Batikan",Chinese,0.72 km,25000,4.6,Santai,Tidak,"Kwetiaw, Nasi Goreng, Bakmi Ayam, Capjay",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/YVCStn4w2wx54DX79
+RT19J1,"Double O Resto, Tegalrejo",Japanese,4.61 km,30000,4.6,Santai,Tidak,"Kopi, Nasi Goreng, Cumi Goreng",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/naEnkcXgaTMCH4b36
+RT20J1,"HokBen Kitchen, Godean Jogjakarta",Japanese,5.22 km,49000,4.7,Formal,Tidak,Hokben,Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/d8NSzFtKQd4k3KyM7
+RT21J1,Salad Sehat Fd,Japanese,4.79 km,30000,4.7,Santai,Tidak,Salad,Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Rs92UFdWZaZfajhv8
+RT22J1,"Bakmi Nikmat Rasa, Soragan",Indonesia,5.29 km,59000,4.6,Santai,Tidak,Bakmi,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/U5RJ4pp3y8cc9aQH8
+RT23J1,"GYU KATSU, CONDONGCATUR",Japanese,5.91 km,32000,4.7,Formal,Ya,"Gohyong, Sushi",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/hyptpcjgEZudiF6b9
+RT24J1,"Vegan Cafe Black Forest, Brontokusuman",Chinese,2.25 km,22000,4.7,Santai,Tidak,"Kopi, Beer, Pancake",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/oHyKwnvx8YY42oAS6
+RT25J1,"Chikuro Pakuwon Mall Jogja, Pakuwon Mall Lantai LG",Japanese,6.2 km,40000,4.6,Formal,Tidak,"Snacks, Japanese",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/tyRbhf7yaYaBBaKE7
+RT26J1,"Soto Sehati, Umbulharjo",Indonesia,0.75 km,26000,4.3,Santai,Tidak,"Soto Ayam, Krupuk, Sate Telur",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/6YHdnz56B7KbKgWr7
+RT27J1,"Bakso Urat & Mie Ayam Rizky, Sorogenen",Indonesia,1.5 km,17000,4.8,Santai,Tidak,"Bakso,Mie Ayam",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/BhHJrJa25BzvELUL9
+RT28J1,Izakaya Japanese Resto,Japanese,5.55 km,120000,4.8,Formal,Tidak,"Beverages, Japanese, Seafood",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/a13SZq59zGNyHu357
+RT29J1,Yani's Kitchen,Chinese,3.58 km,26000,4.4,Santai,Tidak,"Chinese, Ayam & bebek, Aneka nasi, Bakmi",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/LphJVYuXFuAHcTyP6
+RT30J1,"Seafood 99, Wonocatur",Chinese,2.33 km,23000,4.7,Santai,Tidak,"Chinese, Seafood, Aneka nasi",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/qoTB6muZQ2xu5au3A
+RT31J1,"Hotaru Ramen, Banguntapan",Japanese,2.84 km,36000,4,Santai,Tidak,"Fast food, Japanese, Noodles",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/7gCqtHAPS1Uer2o6A
+RT32J1,Kantin Mama Mirza,Indonesia,0.99 km,17000,4.2,Santai,Tidak,"Jajanan, Bakso, Mie Goreng, Mie Rebus",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/22qB7qTdfPwcssbF6
+RT33J1,"Mitsuru Ramen, Foodcourt135",Japanese,4.87 km,35000,4.3,Santai,Tidak,Japanese,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/qUPhfyAtWVb9QHCo9
+RT34J1,"Warung Ramen N Katsu, Chapter 1 Menteri Supeno",Japanese,0.74 km,30000,4.6,Santai,Tidak,Japanese,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/RG773cpVWg1CAbKp6
+RT35J1,Deta Kitchen,Japanese,5.68 km,16000,4.4,Santai,Tidak,"Japanese, Chinese",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/jUGcF934kQDEuf7u9
+RT36J1,"Chicken Katsu Domreneo, Suryodiningratan",Japanese,3.01 km,21000,3.4,Santai,Ya,"Japanese, Rice, Chicken & duck",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/4TyneW3EVVfgxarb9
+RT37J1,"Sushi Yay, Selokan Yogya",Japanese,5.11 km,82000,4.7,Santai,Ya,"Japanese, Rice, Fast food, Chicken & duck",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/tpKNMrJJawbt4WW1A
+RT38J1,Tanoshi Bedjo Homestay,Japanese,6.4 km,66000,4.5,Santai,Ya,"Japanese, Rice, Sate",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/5QNjpirVv8Ee78VN7
+RT39J1,Kantin Siap Saji Zupa Soup The Eifel,Western,1.56 km,22000,3.9,Santai,Tidak,"Pizza & pasta, Rice, Western",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/rSBpPWXWcLXCDT9B6
+RT40J1,Penyetan Ayam Bakar Dan Suki Tomyam Yss Food,Japanese,6.09 km,32000,4.8,Santai,Tidak,"Rice, Chicken & duck, Japanese",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/VwKNdee7r2WQJyUFA
+RT41J1,"Kedai Jagoan Moy-Moy, Tamsis",Chinese,1.32 km,12000,4.7,Santai,Tidak,"Sweets, Chinese",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/aSpTGtdTDuSMfWz4A
+RT42J1,"AMco, Parangtritis",Japanese,2.47 km,108000,4.7,Formal,Tidak,"Western, Japanese, Pizza & pasta",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Jn9sQQ2hqrf6QU2B9
+RT43J1,"The Rock Burger, Melati Wetan",Western,2.42 km,50000,4.7,Santai,Tidak,"Western, Rice, Fast food",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/wY2K3BwjmMBMm8KM9
+RT44J1,"Lotek Gado-Gado Bu Ning, Tamansiswa",Indonesia,1.34 km,26000,4.7,Santai,Tidak,"Aneka nasi, Ayam & bebek, Bakso & soto",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/CDQ3n5s46B3ZjnFb7
+RT45J1,"Pecel Lele Dan Bakso Mie Ayam Sakolehe, Umbulharjo",Indonesia,0.53 km,20000,4.5,Santai,Tidak,"Aneka nasi, Ayam & bebek, Bakso & soto",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/a13SZq59zGNyHu357
+RT46J1,"Pawon Mbokdis, Mantrigawen Lor",Japanese,2.28 km,20000,4.6,Santai,Tidak,"Aneka nasi, Bakmi, Chinese",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/LphJVYuXFuAHcTyP6
+RT47J1,"Rm & Seafood 99, Sorowajan",Chinese,2.91 km,22000,4.2,Santai,Ya,"Aneka nasi, Bakmi, Chinese",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/qoTB6muZQ2xu5au3A
+RT48J1,"Pecel Lele, Rawon Dan Soto Lamongan Yuk In, Giwangan, Umbulharjo",Indonesia,1.38 km,15000,3.9,Santai,Tidak,"Aneka nasi, Bakso & soto",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/7gCqtHAPS1Uer2o6A
+RT49J1,"Ayam Geprek DBC, Beskalan",Indonesia,3.01 km,21000,4.7,Santai,Tidak,"Aneka nasi, Bakso & soto, Ayam & bebek, Minuman",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/qeiyEasmabYYCA7k6
+RT50J1,"Nasi Goreng & Halal Chinesefood MakJoss, Rumah Pagar Biru Salon Yuli",Chinese,0.72 km,25000,4.5,Santai,Ya,"Aneka nasi, Chinese, Bakmi",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/Z87KuzxkCCGoYoem7
+RT51J1,"Soto Ayam 61, Gondomanan",Indonesia,3.01 km,19000,4.5,Santai,Tidak,"Ayam & bebek, Bakso & soto",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/itDKgcFrTVGErbKN9
+RT52J1,"Seblak Mang Cepot & Baso Aci Hoax, Umbulharjo",Indonesia,0.53 km,19000,4.6,Santai,Ya,"Ayam & bebek, Bakso & soto, Cepat saji",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/8RRpkwbY8SyicAM2A
+RT53J1,"Bakso Lontong Djeng Thathit, Suryodiningratan",Indonesia,3.06 km,16000,4,Santai,Tidak,Bakso & soto,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/HxXhoFRoNX8itqjC6
+RT54J1,"Bakso Urat Arema Soringin, Langensari",Indonesia,3.02 km,19000,4.4,Santai,Tidak,Bakso & soto,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/c3xZeWMWFm59MFFa7
+RT55J1,"Bakso Urat Cak Ari, Mataram",Indonesia,3.1 km,20000,4.5,Santai,Tidak,Bakso & soto,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/sf16Yku2QPixKkpXA
+RT56J1,"Soto Daging Lamongan Cak Ngun, Jl. Veteran No 212 Umbulharjo",Indonesia,0.43 km,24000,4.5,Santai,Tidak,Bakso & soto,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/TNqBhTAuJqFCAtfV7
+RT57J1,"Tahu Walik & Soto Warisan, Masjid Umbulharjo",Indonesia,0.53 km,19000,4.6,Santai,Tidak,"Jajanan, Cepat saji, Bakso & soto",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/ixx7fxJfJ63tq5MG6
+RT58J1,Raja Sate & Soto,Indonesia,0.76 km,27000,4.9,Santai,Tidak,"Cepat saji, Sate, Bakso & soto",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/V3cYYejbaWrurYZj8
+RT59J1,CHICKATS,Japanese,6.4 km,25000,4.7,Santai,Tidak,"Chicken & duck, Rice, Japanese",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/GygPTkADmXf5QKiBA
+RT60J1,Chinese Food / Sea Food Kondang,Chinese,2.33 km,31000,4.8,Santai,Tidak,"Chinese, Ayam & bebek, Seafood",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/TgDbeAY74EiJdJ8T9
+RT61J1,"Pepper Lunch, Hartono Mall",Japanese,6.02 km,92000,4.9,Formal,Ya,"Western, Japanese, Rice, Chicken & duck",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Yjo9fBAqKYHbXzxj9
+RT62J1,"Seblak Asgar, Lowanu",Indonesia,1.42 km,33000,4.5,Santai,Tidak,"Jajanan, Bakso & soto",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/QiSiVJ2PKfk7R9zB8
+RT63J1,"Tora Tora, Kaliurang",Japanese,5.24 km,28000,4.6,Santai,Ya,"Japanese, Rice",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/fiN3zkRURPtkN6D17
+RT64J1,"Warung Makan Bu Sri, Umbulharjo",Indonesia,1.1 km,13000,4.4,Santai,Tidak,"Aneka nasi, Ayam & bebek, Bakso & soto",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/WghrSoj9j3pbD95J9
+RT65J1,"Rumah Makan Terang Mulyo, Katamso",Chinese,2.07 km,42000,4.8,Santai,Ya,"Aneka nasi, Bakmi, Chinese",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/3Mk79Py6HGssMQqE8
+RT66J1,SGPC Sop Penyetan Bu Wiryo Cendana,Indonesia,1.49 km,18000,4.8,Santai,Tidak,"Aneka nasi, Bakso & soto",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/UsYoWaBrzg68aaR47
+RT67J1,"Berkah Abadi, Pasar Kranggan",Chinese,4.13 km,28000,4.2,Santai,Tidak,"Ayam & bebek, Chinese",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/X8WkhYuPC7JRRDiG7
+RT68J1,"Mie Ayam Dan Bakso Babaran, Umbulharjo",Indonesia,0.29 km,17000,4.5,Santai,Tidak,"Bakmi, Bakso & soto",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/SKLab3o5HoE3Nwub9
+RT69J1,Yamie Singkawang,Chinese,2.08 km,45000,4.7,Santai,Tidak,"Bakmi, Chinese",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/piStofXgHs6iYqo66
+RT70J1,"Yamie Panda, Timoho",Chinese,1.91 km,28000,4.7,Santai,Ya,"Bakmi, Bakso & soto, Chinese",Ya,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/xmcFoHc4FpNpumJK9
+RT71J1,"Cak No Chinese Food, Jogoyudan",Chinese,3.72 km,25000,4.7,Santai,Ya,"Aneka nasi, Bakmi, Chinese",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/MNcwAVBfFEXiiGv1A
+RT72J1,Warung Sop Iga Dan Soto Betawi Bu Tya,Indonesia,1.08 km,28000,4.5,Santai,Tidak,"Aneka nasi, Bakso & soto",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/W6NpLeH6vRSmGGYw8
+RT73J1,"Bakso dan Mie Ayam Muncul, Jl. Nyi Wiji Adhisoro",Indonesia,0.86 km,14000,4.5,Santai,Tidak,Bakso & soto,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/vz1AemcDL9c7P7wo8
+RT74J1,"Sop Ayam Pak Min Klaten, Taman Siswa",Indonesia,1.23 km,20000,4.7,Santai,Ya,"Bakso & soto, Ayam & bebek, Aneka nasi",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/ixx7fxJfJ63tq5MG6
+RT75J1,"Warung Makan Bu Week, Tegalturi",Indonesia,1.37 km,15000,4.3,Santai,Tidak,"Bakso, soto, Nasi Rawon, Mie Kopyok",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/fsFuEGenKP24UVwd8
+RT76J1,"Zona Seafood, Kotabaru",Chinese,3.24 km,44000,4.8,Santai,Tidak,"Seafood, Chinese",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/HxVsRwZu9X7jQo76A
+RT77J1,"Rumah Makan Tio Asli Ciu Chinese Food & Sea Food, Jetis",Chinese,3.84 km,120000,4.5,Santai,Tidak,"Seafood, Bakmi, Chinese",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/mK5wjyxpz2dDM7T86
+RT78J1,"Manalagi KQ 5, Ngampilan",Chinese,3.7 km,26000,4.7,Santai,Tidak,"Seafood, Chinese",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/3zz7Ru66ShKZKf698
+RT79J1,"Sate Taichan Hitz, Gejayan",Japanese,3.63 km,32000,4.6,Santai,Tidak,"Snacks, Japanese, Sate",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/LQ9fhnVCAqwoUfGz6
+RT80J1,"Kebab Turki Babarafi, Babarsari",Western,4.55 km,23000,4.2,Santai,Tidak,"Snacks, Western",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/7kDM9vHCADzXSnwH6
+RT81J1,"RamenYa!, Plaza Ambarrukmo",Japanese,3.71 km,73000,4.6,Santai,Tidak,"Japanese, Rice, Noodles",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/oEhhfSW2EE2WpWVbA
+RT82J1,"Ono Dimsum, Baciro",Japanese,2.35 km,17000,4.6,Santai,Tidak,"Chinese, Jajanan",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/xMLLtvnjC1FudBSP6
+RT83J1,"RM Makmur Chinese Food, Sosromenduran",Chinese,3.66 km,40000,4.7,Santai,Tidak,"Aneka nasi, Bakmi, Chinese",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/wbuF352F2i3wSxKn9
+RT84J1,"Brongkos Koyor dan Sop Buntut Mbak Ris, Balaikota",Indonesia,1.51 km,30000,4.7,Santai,Tidak,"Aneka nasi, Bakso & soto, Seafood",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/oKX1Mpo23jcCBqaT7
+RT85J1,Mie Ayam Goreng & Gado-gado Om Brewok,Indonesia,1.1 km,19000,4.6,Santai,Tidak,"Ayam & bebek, Bakmi, Bakso & soto",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/S8u6A2L9qfvay8jR7
+RT86J1,"Bebek Peking dan Ayam Panggang Pak Gembul, Jl KH Ahmad Dahlan No 40",Chinese,3.16 km,45000,4.5,Santai,Tidak,"Ayam & bebek, Chinese, Aneka nasi",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/UEfgBeNLXXi3vhF9A
+RT87J1,"Soto Pak Zaenal, Dr. Supomo",Indonesia,0.86 km,15000,4.7,Santai,Tidak,Bakso & soto,Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/GWgdGCAXJ9rnXNjB7
+RT88J1,Bakso Lapangan Tembak Senayan - Cendana,Indonesia,1.52 km,42000,4.6,Santai,Tidak,"Bakso & soto, Aneka nasi, Bakmi",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/pfLkA5px4v6XusfQA
+RT89J1,"Soto Ayam Jadul Mak Yem, Sorogenen",Indonesia,1.43 km,10000,4.6,Santai,Tidak,"Bakso & soto, Minuman",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/fiN3zkRURPtkN6D17
+RT90J1,"Ayam Geprek & Rice Bowl Tobiko Mentai, Karangkajen",Japanese,1.94 km,23000,4.7,Santai,Tidak,"Chicken & duck, Japanese, Beverages",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/WghrSoj9j3pbD95J9
+RT91J1,"Warung Makan Tokyo, Titik Maps Sabi Jogja",Japanese,4.06 km,17000,4.2,Santai,Ya,"Rice, Japanese, Seafood",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/3Mk79Py6HGssMQqE8
+RT92J1,RM. Gajah jaya,Chinese,3.31 km,25000,4.6,Santai,Tidak,Chinese,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/UsYoWaBrzg68aaR47
+RT93J1,NABE COFFEE Soragan,Japanese,5.13 km,36000,4.8,Santai,Tidak,"Bakery, Japanese, Coffee",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/X8WkhYuPC7JRRDiG7
+RT94J1,"Mie Jakarta Express, Galeria Mall",Chinese,3.46 km,48000,4.6,Santai,Tidak,"Bakmi, Seafood, Chinese",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/SKLab3o5HoE3Nwub9
+RT95J1,Soto Ayam Pak Satar,Indonesia,0.31 km,13000,4.5,Santai,Tidak,Bakso & soto,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/piStofXgHs6iYqo66
+RT96J1,"Mie Ayam Sae Raos, Jl Sidikan No. 71 Sorosutan",Indonesia,1.18 km,14000,4.2,Santai,Tidak,"Bakso & soto, Bakmi",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/xmcFoHc4FpNpumJK9
+RT97J1,"Happy Juice & Soto Padang, Umbulharjo",Indonesia,0.77 km,18000,4.5,Santai,Tidak,"Bakso & soto, Minuman",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/MNcwAVBfFEXiiGv1A
+RT98J1,"Kebab Jawa, Sorogenen",Western,1.54 km,18000,4.5,Santai,Tidak,Western,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/W6NpLeH6vRSmGGYw8
+RT99J1,"Bubur Ayam Kampung Hawila, Timoho",Chinese,1.94 km,25000,4.5,Santai,Tidak,"Cepat saji, Chinese, Aneka nasi",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/vz1AemcDL9c7P7wo8
+RT100J1,"Nasi Ayam d' Katsu, Rejodadi Sidorejo",Japanese,5.95 km,38000,4.7,Santai,Tidak,"Chicken & duck, Japanese, Rice",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/ixx7fxJfJ63tq5MG6
+RT101J1,Kedai Liang Xin,Chinese,4.62 km,22000,4.7,Santai,Tidak,"Chinese, Japanese",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/fsFuEGenKP24UVwd8
+RT102J1,"Banzai, Tegalrejo",Japanese,5.03 km,49000,4.8,Formal,Tidak,"Japanese, Fast food, Rice",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/HxVsRwZu9X7jQo76A
+RT103J1,"Nakdang, Banguntapan",Japanese,3.28 km,33000,4.6,Santai,Tidak,"Japanese, Rice, Chicken & duck",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/mK5wjyxpz2dDM7T86
+RT104J1,"Boga Kitchen, Selokan Yogya",Japanese,5.11 km,82000,4.6,Santai,Ya,"Japanese, Rice, Fast food, Chicken & duck",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/3zz7Ru66ShKZKf698
+RT105J1,"Nasi Bakar Lagi Dan Tempe Mendoan Jumbo ""Mbakayune"", Umbulharjo",Indonesia,1.45 km,20000,4.7,Santai,Ya,"Jajanan, Aneka nasi, Bakso & soto",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/LQ9fhnVCAqwoUfGz6
+RT106J1,"Daruma Donburi, Mlati, Sinduadi",Japanese,5.75 km,35000,4,Santai,Ya,"Rice, Japanese",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/7kDM9vHCADzXSnwH6
+RT107J1,"Sabi Jogja, Caturtunggal",Japanese,4.07 km,49000,4.5,Santai,Ya,"Sate, Rice, Japanese",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/oEhhfSW2EE2WpWVbA
+RT108J1,"Pondok Cabe Bistro, C Simanjuntak",Western,4.25 km,35000,4.5,Santai,Tidak,"Western, Pizza & pasta, Rice, Chicken & duck, Bakso & soto",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/xMLLtvnjC1FudBSP6
+RT109J1,Waroeng Spaghetti Balapan,Western,3.25 km,25000,4.7,Santai,Ya,"Western, Snacks",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/wbuF352F2i3wSxKn9
+RT110J1,"Lawang Resto, Yellow Star Ambarrukmo Hotel",Western,3.47 km,28000,3.9,Santai,Tidak,Western,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/oKX1Mpo23jcCBqaT7
+RT111J1,"Ayam Geprek Dan Katsu KALARASA, Umbulharjo",Japanese,1.02 km,18000,4.7,Santai,Ya,"Rice, Fast food, Japanese",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/S8u6A2L9qfvay8jR7
+RT112J1,"Nasi Mangkok Uncle Dave, Depok/Caturtunggal/Seturan",Japanese,5.89 km,21000,4.6,Santai,Tidak,"Rice, Fast food, Japanese",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/UEfgBeNLXXi3vhF9A
+RT113J1,"Ramen Kanbai, Babarsari",Japanese,5.03 km,27000,4.3,Santai,Tidak,"Sweets, Japanese, Noodles",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/GWgdGCAXJ9rnXNjB7
+RT114J1,"Yamie Panda, Jalan Solo",Chinese,3.53 km,28000,4.7,Santai,Ya,"Chinese, Bakmi",Ya,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/pfLkA5px4v6XusfQA
+RT115J1,Soto Lamongan Cak Mangku,Indonesia,1.34 km,18000,4.6,Santai,Tidak,Bakso & soto,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/fiN3zkRURPtkN6D17
+RT116J1,"Soto Bu Kamto, Umbulharjo",Indonesia,0.93 km,15000,4.4,Santai,Tidak,"Bakso & soto, Aneka nasi, Ayam & bebek",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/WghrSoj9j3pbD95J9
+RT117J1,Bakso Ceker Mercon dan Penyetan Mayang Sidikan,Indonesia,0.78 km,18000,4,Santai,Ya,"Bakso & soto, Aneka nasi, Korea",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/3Mk79Py6HGssMQqE8
+RT118J1,"Mie Ayam & Bakso Idolaku Pak Tikno, Tamansiswa",Indonesia,1.2 km,30000,4.7,Santai,Ya,"Bakso & soto, Bakmi",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/UsYoWaBrzg68aaR47
+RT119J1,"Soto Daging Sapi Lamongan Cak Sodik, Jl Veteran,umbuhalrjo",Indonesia,0.42 km,22000,4.4,Santai,Tidak,"Bakso & soto, Minuman, Cepat saji",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/X8WkhYuPC7JRRDiG7
+RT120J1,"Ta Wan, Malioboro",Chinese,3.24 km,56000,4.7,Formal,Ya,"Aneka nasi, Ayam & bebek, Chinese",Ya,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/SKLab3o5HoE3Nwub9
+RT121J1,"Yamie Panda, Lippo Mall Jogja",Chinese,3.26 km,28000,4.6,Santai,Ya,"Bakmi, Chinese",Ya,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/piStofXgHs6iYqo66
+RT122J1,"Yamie Panda, Tamansiswa",Chinese,1.18 km,28000,4.7,Santai,Ya,"Chinese, Bakmi",Ya,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/xmcFoHc4FpNpumJK9
+RT123J1,Pondok Damai Mbah Tin,Chinese,3.54 km,23000,4.5,Santai,Ya,"Aneka nasi, Bakmi, Chinese",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/MNcwAVBfFEXiiGv1A
+RT124J1,"Mie Ayam Pancoran, Glagahsari",Indonesia,0.51 km,21000,3.9,Santai,Tidak,"Bakmi, Bakso & soto",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/W6NpLeH6vRSmGGYw8
+RT125J1,"Mie Kita Orang, Pasar Kranggan Lantai 2",Chinese,4.14 km,20000,4.2,Santai,Tidak,"Bakmi, Chinese",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/vz1AemcDL9c7P7wo8
+RT126J1,"Bakso Cak Masrur, Timoho",Indonesia,1.58 km,43000,4.6,Santai,Tidak,Bakso & soto,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/ixx7fxJfJ63tq5MG6
+RT127J1,Mie Ayam Dan Bakso Urat Sari Roso Wonogiri,Indonesia,0.25 km,17000,4.7,Santai,Ya,Bakso & soto,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/fsFuEGenKP24UVwd8
+RT128J1,Soto Daging Sapi Lamongan Cak Lim,Indonesia,0.39 km,22000,4.6,Santai,Tidak,"Bakso & soto, Cepat saji, Aneka nasi",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/HxVsRwZu9X7jQo76A
+RT129J1,"Etnik Kafe, Mergangsan",Chinese,1.87 km,23000,4.3,Santai,Tidak,"Chinese, Aneka nasi, Ayam & bebek",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/mK5wjyxpz2dDM7T86
+RT130J1,Bakso Bakar Sosis Bakar Depokan,Indonesia,1.15 km,22000,4.4,Santai,Tidak,"Jajanan, Bakso & soto, Bakmi",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/3zz7Ru66ShKZKf698
+RT131J1,"Aqori Angkringan Jepang, Kuliner Lor Tugu",Japanese,4.08 km,23000,4.4,Santai,Tidak,"Japanese, Snacks",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/LQ9fhnVCAqwoUfGz6
+RT132J1,Bakso Urat dan Mie Ayam Krowal Krowel,Indonesia,1.38 km,15000,3.5,Santai,Tidak,"Minuman, Bakso & soto, Bakmi",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/7kDM9vHCADzXSnwH6
+RT133J1,Bubur Ayam Bang Opik,Chinese,1.52 km,18000,4.5,Santai,Tidak,"Minuman, Cepat saji, Chinese",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/oEhhfSW2EE2WpWVbA
+RT134J1,"Sun Rice Bowl, Panggungharjo",Japanese,4.95 km,28000,4.7,Santai,Tidak,"Rice, Chicken & duck, Japanese",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/xMLLtvnjC1FudBSP6
+RT135J1,"Sate Kambing Pak Tomek, Ngentak",Indonesia,3.06 km,22000,4.5,Santai,Tidak,"Sate, Aneka nasi, Bakso & soto",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/wbuF352F2i3wSxKn9
+RT136J1,"Seafood 99, Sorogenen",Chinese,1.4 km,32000,4.7,Santai,Tidak,"Seafood, Aneka nasi, Chinese",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/oKX1Mpo23jcCBqaT7
+RT137J1,"Blengerr, Hayam Wuruk",Chinese,2.73 km,34000,4.7,Santai,Ya,"Aneka nasi, Ayam & bebek, Chinese",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/S8u6A2L9qfvay8jR7
+RT138J1,"Nasi Goreng dan Chinese Food Abah, Prawirotaman",Chinese,2.11 km,22000,4.8,Santai,Tidak,"Bakmi, Chinese, Aneka nasi",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/UEfgBeNLXXi3vhF9A
+RT139J1,Bakso Rahayu,Indonesia,1.47 km,14000,4.5,Santai,Tidak,Bakso & soto,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/GWgdGCAXJ9rnXNjB7
+RT140J1,BAKSO URAT CAK EKA AREMA MALANG JATIM,Indonesia,3.01 km,16000,4.4,Santai,Tidak,Bakso & soto,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/pfLkA5px4v6XusfQA
+RT141J1,"Soto Sapi Winong, Ngeksigondo",Indonesia,1.13 km,25000,4.9,Santai,Tidak,Bakso & soto,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/XjaCuQchk23dwVCZ8
+RT142J1,"Mr. Teto Sate & Soto, Perintis Kemerdekaan",Indonesia,0.85 km,27000,4.8,Santai,Tidak,"Bakso & soto, Sate",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Aco6F4fmc9WRGcqu7
+RT143J1,"Ayam Serundeng, Nitikan",Indonesia,1 km,21000,4.6,Santai,Tidak,"Jajanan, Aneka nasi, Bakso & soto",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/4paVWcYBDhNyfqXt7
+RT144J1,Warung Buto,Chinese,2.2 km,43000,4.7,Santai,Tidak,"Aneka nasi, Chinese, Sate",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/BZ3Sps4ZHeCwESPF7
+RT145J1,"Mie Surabaya Pak Joko, Gedongkuning Selatan",Chinese,1.62 km,18000,4.7,Santai,Tidak,"Bakmi, Aneka nasi, Chinese",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/QTFqtmsTQKT4us2R8
+RT146J1,Bakso Dan Mie Ayam Barokah 354 Sor Talok,Indonesia,0.75 km,16000,4.6,Santai,Tidak,"Bakmi, Bakso & soto",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/bfX7DRvN3cubwpJ9A
+RT147J1,"Mie Kepang Jayakarta, Kusumanegara",Indonesia,1.26 km,42000,4.6,Santai,Ya,"Bakmi, Jajanan, Bakso & soto",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/naTkiRfeZaVasj1S6
+RT148J1,Warung Sop dan Tongseng Ayam Family,Indonesia,3.1 km,17000,4.2,Santai,Tidak,"Bakso & soto, Ayam & bebek",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/iM2M2RRANN6aYxHm7
+RT149J1,"Ono Dimsum, Timoho",Indonesia,2.84 km,17000,4.6,Santai,Tidak,"Bakso & soto, Cepat saji, Jajanan",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/oi3fBo6ihuKRFKsM9
+RT150J1,Bakso Dan Seblak Asgar,Indonesia,0.51 km,17000,4.6,Santai,Ya,"Bakso & soto, Cepat saji, Minuman",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/G9KmUQ3nbfUGYD6r7
+RT151J1,Rumah Makan Echo Roso 1,Chinese,3.06 km,27000,4.6,Santai,Tidak,"Chinese, Aneka nasi, Seafood",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/S2ManzYTB2bpex4j7
+RT152J1,"Sate Klathak dan Bakmi Jowo Pak Jede, Nologaten",Indonesia,3.23 km,39000,4.3,Santai,Tidak,"Sate Klathak, Gule, Soto Kambing, Sate Kambing, Wedang Uwuh",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/fiN3zkRURPtkN6D17
+RT153J1,Bakpia Pathok 25 Pathok Jaya,Indonesia,3.01 km,19000,4.6,Santai,Tidak,Bakpia,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/WghrSoj9j3pbD95J9
+RT154J1,Tengkleng Gajah Jogja,Indonesia,1.44 km,18000,4.4,Santai,Tidak,Tengkleng Gajah,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/3Mk79Py6HGssMQqE8
+RT155J1,Oseng-oseng mercon Bu Narti Godean,Indonesia,0.83 km,22000,4.6,Santai,Tidak,Oseng Mercon,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/UsYoWaBrzg68aaR47
+RT156J1,Yangko Giant,Indonesia,2.13 km,40000,4.6,Santai,Tidak,Yangko,Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/X8WkhYuPC7JRRDiG7
+RT157J1,Warung Kopi Klotok,Indonesia,3.1 km,16000,4.5,Santai,Tidak,"Kopi Klotok, Jadah",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/SKLab3o5HoE3Nwub9
+RT158J1,Angkringan Pak Jabrik,Indonesia,3.73 km,41000,4.2,Santai,Tidak,"Bandrek, Sekoteng, Wedang uwuh",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/piStofXgHs6iYqo66
+RT159J1,Angkringan Kebon Yogyakarta ꧋ꦄꦁꦏꦿꦶꦔꦤ꧀ꦏꦼꦧꦺꦴꦤ꧀ꦪꦺꦴꦒꦾꦏꦂꦠ,Indonesia,5.58 km,25000,4.7,Santai,Tidak,"Nasi Kucing, Sate",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/xmcFoHc4FpNpumJK9
+RT160J1,Brongkos Bu Repan,Indonesia,1.97 km,19000,4.4,Santai,Tidak,Brongkos,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/MNcwAVBfFEXiiGv1A
+RT161J1,Bakmi Jowo Mbah Gito,Indonesia,3.17 km,132000,4.3,Santai,Tidak,"Bakmi, Wedang Uwuh, Saparella",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/W6NpLeH6vRSmGGYw8
+RT162J1,Bakmi Jawa Pak Paino,Indonesia,0.65 km,15000,4.5,Santai,Tidak,"Bakmi, Nasi Goreng, Wedang Bajigur",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/vz1AemcDL9c7P7wo8
+RT163J1,Mangut Lele Dapur Asli Mbok Marto Ijoyo Jl Sewon Indah,Indonesia,5.2 km,29000,4.6,Santai,Tidak,"Mangut Lele, Mangut Belut, Sayur Krecek, Gudeg, Oseng Mercon",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/ixx7fxJfJ63tq5MG6
+RT164J1,Wedang Ronde Mbak Lasmi꧋ꦮꦺꦣꦁꦫꦺꦴꦤ꧀ꦝꦼꦩ꧀ꦧꦏ꧀ꦭꦱ꧀ꦩꦶ,Indonesia,5.76 km,62000,4.5,Santai,Tidak,Wedang Ronde,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/fsFuEGenKP24UVwd8
+RT165J1,Bakmi Jowo & Mie Lethek Pandawa,Indonesia,3.24 km,38000,4.4,Santai,Tidak,"Nasi Goreng, Bakmi, Mie Lethek, Wedang Ronde, Mie kopyok",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/HxVsRwZu9X7jQo76A
+RT166J1,Warung Heru,Indonesia,4.3 km,28000,4.6,Santai,Tidak,"Rawon, Mangut Lele, Tempe Mendoan, Emping, Pisang Goreng, Tahu Isi, Piya-piya, Nangka goreng ",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/mK5wjyxpz2dDM7T86
+RT167J1,Lumpia SAMIJAYA,Indonesia,1.46 km,22000,4.5,Santai,Tidak,Lumpia,Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/3zz7Ru66ShKZKf698
+RT168J1,Toko Oleh-oleh Khas Jogja BU TINI,Indonesia,5.54 km,40000,4.3,Santai,Tidak,"Ampyang Kacang, Bakpia",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/LQ9fhnVCAqwoUfGz6
+RT169J1,Mie Ayam Asli Bandung 59,Indonesia,0.72 km,25000,4.7,Santai,Tidak,"Soto Tauco, Otak-otak, Bakso, Mie Ayam, Lomie Kangkung, Bubur Ayam",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/7kDM9vHCADzXSnwH6
+RT170J1,Ronde Kauman Mbah Payem,Indonesia,4.61 km,30000,4.6,Santai,Tidak,"Wedang Ronde, Wedang Jahe",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/oEhhfSW2EE2WpWVbA
+RT171J1,Rujak Es Cream Pak Nardi Pakualaman,Indonesia,5.22 km,49000,4.7,Santai,Tidak,"Rujak Es Krim, Rujak Serut",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/xMLLtvnjC1FudBSP6
+RT172J1,Wedang tahu Jogja Pasar pathuk,Indonesia,4.79 km,30000,4.8,Santai,Tidak,Wedang Tahu,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/wbuF352F2i3wSxKn9
+RT173J1,Es Jaipong Mang Rasta꧋ꦌꦱ꧀ꦗꦻꦥꦺꦴꦁꦩꦁꦫꦱ꧀ꦠ,Indonesia,5.29 km,59000,4.3,Santai,Tidak,Es Jaipong,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/oKX1Mpo23jcCBqaT7
+RT174J1,Kipo Bu Djito,Indonesia,5.91 km,32000,4.6,Santai,Tidak,"Kipo, Serabi, Bolu mekar ",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/S8u6A2L9qfvay8jR7
+RT175J1,Pempek Laris Mandala Krida,Indonesia,2.25 km,22000,4.1,Santai,Tidak,"Pempek, Es Teh, Es Jeruk, Tekwan",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/UEfgBeNLXXi3vhF9A
+RT176J1,Rendang Jogja Bu Sutini,Indonesia,6.2 km,40000,5,Santai,Tidak,Rendang,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/GWgdGCAXJ9rnXNjB7
+RT177J1,Burger Rendang,Indonesia,0.75 km,26000,4.9,Santai,Tidak,Burger Rendang,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/pfLkA5px4v6XusfQA
+RT178J1,Munggur Minang,Indonesia,1.5 km,17000,4.5,Santai,Tidak,"Nasi Goreng, Mie Goreng, Es Teh Susu",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/iVGwHVXpDTf6LWwH9
+RT179J1,Rumah Makan Padang | Putra Wisnu,Indonesia,5.55 km,120000,4.5,Santai,Tidak,Nasi Padang ,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/K6K4L5G99XMQxwCf7
+RT180J1,Siomay Jakarta Kang Ujang Ngasem,Indonesia,3.58 km,26000,4.4,Santai,Tidak,"Siomay, Es Jeruk, Es Teh",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/U4PZaHmqnWXLSv6r8
+RT181J1,Siomay Baso Tahu Lotus Pian Yi,Indonesia,2.33 km,23000,4.8,Santai,Tidak,Siomay,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/R7F2h7fBGUTykkk28
+RT182J1,Siomay & Batagor 154,Indonesia,2.84 km,36000,4.8,Santai,Tidak,"Siomay, Batagor",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/aGBXU9u6RhGFD82T6
+RT183J1,Tahu Tek Pak Marju Wirobrajan,Indonesia,0.99 km,17000,3.6,Santai,Tidak,Tahu Tek,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/6Q3NsFT4hXYtgqa59
+RT184J1,Tahu Tek-Tek 45 Khas Surabaya,Indonesia,4.87 km,35000,4.6,Santai,Tidak,"Tahu Tek, Tahu Campur, Rujak Cingur",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/4gLKVCmfBob2rHfm6
+RT185J1,Depot Dawet TIMOHO,Indonesia,0.74 km,30000,4.7,Santai,Tidak,"Es Dawet, Es Campur, Soto",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/4sNKCjuC2RQChrbf9
+RT186J1,Ketoprak Kuburan (DAIKIN),Indonesia,5.68 km,16000,4.6,Santai,Tidak,Ketoprak,Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Qv1uYU62nkthCsJEA
+RT187J1,Ketoprak Jakarta Bang Mus(ꦏꦼꦠꦺꦴꦥꦿꦏ꧀ꦗꦏꦂꦠꦧꦁꦩꦸꦱ꧀),Indonesia,3.01 km,21000,4.5,Santai,Tidak,Ketoprak,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/phWvPiULDDNUbrKW6
+RT188J1,"Lotek dan Gado Gado Bu Bagyo Colombo, cabang Kusumanegara",Indonesia,5.11 km,82000,4.1,Santai,Tidak,Gado-gado ,Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/B73zAiQCrZaeaetE7
+RT189J1,Gado Gado Bu Hadi,Indonesia,6.4 km,66000,4.4,Santai,Tidak,"Gado-gado, Es Kopyor ",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/6QyjppfNPehLQ8qe9
+RT190J1,Kerak telor babe kumis,Indonesia,1.56 km,22000,4.6,Santai,Tidak,Kerak Telor ,Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/ytrvBMMwJMp5Vy7A8
+RT191J1,Ayam Bakar Taliwang Papin,Indonesia,6.09 km,32000,4.5,Santai,Tidak,"Ayam Taliwang, Es Jeruk ",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/XjaCuQchk23dwVCZ8
+RT192J1,Ayam Taliwang Pak Wono,Indonesia,1.32 km,12000,4.4,Santai,Tidak,"Sop Ayam, Ayam Taliwang ",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Aco6F4fmc9WRGcqu7
+RT193J1,Nasi Uduk Dan Nasi Kuning Ibu Yana,Indonesia,2.47 km,108000,4.7,Santai,Tidak,"Nasi Uduk, Nasi Kuning",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/4paVWcYBDhNyfqXt7
+RT194J1,Nasi Uduk 21,Indonesia,2.42 km,50000,4.6,Santai,Tidak,"Nasi Uduk, Lele Goreng, Bebek Goreng, Ayam Goreng",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/BZ3Sps4ZHeCwESPF7
+RT195J1,Pecel 57 Khas Madiun,Indonesia,1.34 km,26000,4.3,Santai,Tidak,"Rawon, Soto Ayam, Nasi Pecel",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/QTFqtmsTQKT4us2R8
+RT196J1,Sop Djanda ꧋ꦱꦺꦴꦥ꧀ꦝ꧀ꦗꦤ꧀ꦝ,Indonesia,0.53 km,20000,4.6,Santai,Tidak,"Sate Ayam, Sate Maranggi, Sate Kambing, Wedang Uwuh, Es Jeruk",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/bfX7DRvN3cubwpJ9A
+RT197J1,Sop Kaki Kambing Bang Udin,Indonesia,2.28 km,20000,4.4,Santai,Tidak,"Sop Kambing, Emping, Es Teh",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/naTkiRfeZaVasj1S6
+RT198J1,Warung Makan Khas Bali Putra & nasi soun tempe,Indonesia,2.91 km,22000,4.5,Santai,Tidak,"Nasi Jinggo, Ayam Betutu, Ayam Taliwang, Es Jeruk , Ayam Balado, Plecing Kangkung",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/iM2M2RRANN6aYxHm7
+RT199J1,Warung Nyoman Jogja,Indonesia,1.38 km,15000,4.8,Santai,Tidak,"Nasi Jinggo, Nasi Ayam Betutu, Mie Dok Dok, Sate Lilit, Es Teh, Es Jeruk, Nangka goreng ",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/oi3fBo6ihuKRFKsM9
+RT200J1,Soto Sukaraja & Rica-Rica Bebek Dalem Kawijayan,Indonesia,3.01 km,21000,4.7,Santai,Tidak,"Rica-Rica Bebek, Soto Ayam, Soto Sapi, Es Teh, Es Jeruk, Kopi",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/G9KmUQ3nbfUGYD6r7
+RT201J1,Sate Kere Daging Sapi Bu Suwarni,Indonesia,0.72 km,25000,4.4,Santai,Tidak,"Sate Kere, Es Teh, Es Jeruk, Nasi ",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/S2ManzYTB2bpex4j7
+RT202J1,Dawet Mbah Hari Pasar Beringharjo,Indonesia,3.01 km,19000,4.7,Santai,Tidak,Es dawet,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/QTfvwhZV1jEi2SUx9
+RT203J1,Warung Klangenan,Indonesia,0.53 km,19000,4.5,Santai,Tidak,"Es Beras Kencur, Es Kunir Asem, Es Temulawak, Teh Tarik, Es Pandan Koling, Kopi Item, Kopi Gayo, Bakaran, Wedang Susu Jahe, Wedang Uwuh, Nasi Kuning, Sate Kere, Nasi Kucing, Nasi Kuning",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/KWaavspWeVGbELGa9
+RT204J1,Saoto Bathok Mbah Katro,Indonesia,3.06 km,16000,4.5,Santai,Tidak,"Soto Bathok, Peyek, Tempe Goreng, Perkedel, Sate Usus, Sate Telur Puyuh, Lempeng, Krupuk, Teh Panas, Es Jeruk, Lemon Tea",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/gMCK2Qci62kt12ta6
+RT205J1,Banyu Mili ,Indonesia,3.02 km,19000,4.4,Santai,Tidak,"Nasi Goreng, Ayam Goreng, Ikan Bakar, Es Jeruk, Mie Goreng",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/LNho1AZrX2e4arqx7
+RT206J1,Bale Raos,Indonesia,3.1 km,20000,4.5,Santai,Tidak,"Gudeg, Pisang Goreng ",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/UNRfw5hZKkWbxSBc7
+RT207J1,Gudeg Pawon,Indonesia,0.43 km,24000,4.5,Santai,Tidak,"Gudeg, Es Teh, Opor Ayam",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/8asecXFGfGsruzkz8
+RT208J1,Bakpia Kukus Tugu Jogja ,Indonesia,0.53 km,19000,4.6,Santai,Tidak,Bakpia ,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/AeW9NQwRQJCYS9px7
+RT209J1,Jejamuran,Indonesia,0.76 km,27000,4.6,Santai,Tidak,"Jamur, Rendang, Mie kopyok",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/Ta8F4GH3P7isR27c6
+RT210J1,Mie Lethek mBah Mendes Maguwo,Indonesia,6.4 km,25000,4.3,Santai,Tidak,"Mie Lethek, Nasi Goreng, Wedang Uwuh, Wedang Jahe, Mie kopyok",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/3B1PtwdLEpkcbD3v9
+RT211J1,Warung Makan Mie Lethek Sor Jati Jambon,Indonesia,2.33 km,31000,4.6,Santai,Tidak,"Mie Lethek, Mie Godhok, Mie kopyok",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/zo95FogsiwnHMRct6
+RT212J1,Geplak Mbok Tumpuk,Indonesia,6.02 km,92000,4.4,Santai,Tidak,"Bakpia, Geplak, Abon",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/GuqPasVMWWahbrfJ6
+RT213J1,GEPLAK SUPER Ngudi Raos,Indonesia,1.42 km,33000,4.5,Santai,Tidak,Geplak,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/3mP5TSgwpqkBqwHM6
+RT214J1,Thiwul Ayu Mbok Sum,Indonesia,5.24 km,28000,4.5,Santai,Tidak,Nasi Thiwul,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/ruQzEJckg2HtcN4E6
+RT215J1,Thiwul kukus,Indonesia,1.1 km,13000,4.5,Santai,Tidak,Thiwul Kukus,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/WtE5QyYXT972hSHv6
+RT216J1,Tumpeng Mini Jogja - tumpeng.mini.jogja,Indonesia,2.07 km,42000,4.8,Santai,Tidak,Nasi Tumpeng,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/ZwX8TUgVqpxBPMzo9
+RT217J1,Depot Mbah Lin,Indonesia,1.49 km,18000,4.4,Santai,Tidak,"Tahu Tek, Lontong Balap",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/ZMw8pVwyxUY6DMQG8
+RT218J1,Nasi Krawu Mawut꧋ꦤꦱꦶꦏꦿꦮꦸꦩꦮꦸꦠ꧀,Indonesia,4.13 km,28000,4.9,Santai,Tidak,Nasi Krawu,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/MLAydRiG9SzhYCVJA
+RT219J1,Wedang Ronde Lek Dhie Milenial,Indonesia,0.29 km,17000,4.9,Santai,Tidak,Wedang Ronde,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/94nKBmMNPJWEibWg7
+RT220J1,Warung Wedang Bajigur,Indonesia,2.08 km,45000,4.6,Santai,Tidak,"Wedang Bajigur, Nangka goreng ",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/8g6WR1UKpVUdjfdu5
+RT221J1,Warung Bajigur & Bandrek Budhe Warsi,Indonesia,1.91 km,28000,4.7,Santai,Tidak,"Bandrek, Wedang Bajigur, Nangka goreng ",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/yLSEu4f4DQAnB5iY8
+RT222J1,Es Oyen,Indonesia,3.72 km,25000,4.5,Santai,Tidak,Es Oyen,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/cjrfzeEwFcxyuRdn9
+RT223J1,Bosstown Kebab by Black Kebab,Indonesia,1.08 km,28000,4.7,Santai,Tidak,Kebab,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/YhEgGrtZyfGndgdq7
+RT224J1,Restaurant Warung Toscana | Italian Food & Indonesian Cuisine,Indonesia,0.86 km,14000,4.6,Santai,Tidak,"Risotto, Mie Goreng",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/BQyv8ozmvytH7Q8j7
+RT225J1,Ayam Bakar Taliwang Papin,Indonesia,1.23 km,20000,4.5,Santai,Tidak,Ayam Taliwang,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/eRBp3gzquAXKvgAV9
+RT226J1,Gule Kepala Ikan Sangaji,Indonesia,1.37 km,15000,4.4,Santai,Tidak,"Gulai Ikan, Mie Ayam, Rawon",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/d9jGhPgbEJVKSy5P9
+RT227J1,"Warung Sate & Gule Kambing Gedong Kuning ""Mbah So""",Indonesia,3.24 km,44000,4.5,Santai,Tidak,"Sate Kambing, Sate Klathak",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/c7HCYxVsyp5EkGkPA
+RT228J1,Es Pisang Ijo Bamban Mandala,Indonesia,3.84 km,120000,4.3,Santai,Tidak,Es Pisang Ijo,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/hTtxLRn3uCHpmVr79
+RT229J1,RAWIT ABANG Ikan Pedas by Pelem Golek,Indonesia,3.7 km,26000,4.9,Santai,Tidak,"Mangut Ikan, Kopi",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/QkCNAJvMVrFPrUPLA
+RT230J1,Joglo Pari Sewu ,Indonesia,3.63 km,32000,3.7,Santai,Tidak,"Nasi Pecel, Nasi Goreng",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/oZhHpVhLwyivdWUKA
+RT231J1,"Waroeng spesial sambal ""SS"" Jakal KM 12",Indonesia,4.55 km,23000,4.1,Santai,Tidak,"Bebek Bakar, Ayam Bakar, Es Teh",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Y8yyfMG6WNMeTbmF6
+RT232J1,Lesehan Pari Gogo ,Indonesia,3.71 km,73000,4.5,Santai,Tidak,"Es Teh, Es Jeruk, Es Teler, Es Campur",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/dUi4YDgwgxp4MBL19
+RT233J1,Thiwul Yu tum ,Indonesia,2.35 km,17000,4.4,Santai,Tidak,"Gatot, Tiwul, Gethuk",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/aroKRcZNkSwCywg29
+RT234J1,Pusat Oleh-oleh Walang Goreng Pak Gareng ,Indonesia,3.66 km,40000,4.3,Santai,Tidak,Tiwul,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/LMsxDokHNwnt1Lsv9
+RT235J1,Pawon Purba dan Homestay ,Indonesia,1.51 km,30000,4.6,Santai,Tidak,Nasi Rames,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/V1m3dKRwc5UtZkZx8
+RT236J1,Jogja paradise foodcourt ,Indonesia,1.1 km,19000,4.3,Santai,Tidak,"Ayam Taliwang, Roti Bakar ",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/F4qrUpgVbNEzuEpS8
+RT237J1,Warung Makan Ngangeni ,Indonesia,3.16 km,45000,4.6,Santai,Tidak,"Soto Ayam, Nasi Pecel, Nangka goreng ",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/6MYxPp4AR5pRQ7oR8
+RT238J1,Warung Simbok Gunung Kidul,Indonesia,0.86 km,15000,4.5,Santai,Tidak,"Gudeg, Ayam Goreng, Kopi ",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/mWkHmgZRvAPwBVLH9
+RT239J1,Rumah Makan Jawa Bu Sudar,Indonesia,1.52 km,42000,4.4,Santai,Tidak,"Nasi Tumpeng, Sayur Lodeh ",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/qYMs8n6sNfY2qWii8
+RT240J1,Kopi Panggang dan Dhaharan Ndeso,Indonesia,1.43 km,10000,4.6,Santai,Tidak,"Nasi Bumbung, Ayam Goreng, Kopi, Wedang Uwuh",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/XxKvR5jQGdUvRJz46
+RT241J1,RM Bu Tiwi Tan Tlogo,Indonesia,1.94 km,23000,4.4,Santai,Tidak,"Brongkos, Es Teh, Wedang Uwuh, Ayam Goreng ",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/yksysKeFRr8Z2GFA8
+RT242J1,Ayam Goreng Sri Pendowo,Indonesia,4.06 km,17000,4.4,Santai,Tidak,"Ayam Goreng, Kopi",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/cF6N5NvTnnRKzeb9A
+RT243J1,Sate Kambing Pak Turut,Indonesia,3.31 km,25000,4.4,Santai,Tidak,"Es Teh, Es Jeruk, Sate Kambing, Gulai Kambing ",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/HFtdSNUcdX3exWuK7
+RT244J1,Ayam Goreng Kondang Rasa,Indonesia,5.13 km,36000,4.1,Santai,Tidak,"Ayam Goreng, Rendang",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/WgcFtLA4an5tCLjQA
+RT245J1,Pondok Makan Lesehan Griyo Wono,Indonesia,3.46 km,48000,4.2,Santai,Tidak,"Es Teh, Nasi Goreng, Ayam Goreng, Es Degan",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/WKnX8v8B46FvJN476
+RT246J1,Resto Indrayanti GK Yogyakarta Indonesia,Indonesia,0.31 km,13000,4.2,Santai,Tidak,"Es Kelapa Muda,Soto Ayam, Kepiting,Tempe Mendoan, Pisang Goreng, Tempe Goreng, Kopi, Nasi Goreng, Lobster, Udang Goreng, Es Jeruk, Es Teh, Mie Goreng, Tempe Tempe Mendoan, Gurame Goreng, Oseng Kangkung, Piya-piya ",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Hq4AMSpxwGcPqmiv8
+RT247J1,Kedai Lobster Pak Sis,Indonesia,1.18 km,14000,4.5,Santai,Tidak,"Lobster, Es Teh, Es Jeruk, Kepiting, Oseng Kangkung, Cumi-cumi, Ikan Goreng, Sambel, Udang Goreng",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/ycUyPmcTNUvPtSid7
+RT248J1,Pondok Makan dan Pemancingan Sekar Kusuma,Indonesia,0.77 km,18000,4.4,Santai,Tidak,"Nila Bakar, Teh Poci, Ayam Bakar, Oseng Kankung, Teh Hangat, Kopi, Susu Jahe, Wedang Jahe, Wedang Tape, Lemon Tea, Es Jeruk, Es Kelapa Muda, Nasi Goreng, Gurame Bakar, Mangut Lele, Ayam Goreng, Singkong Goreng, Pisang Goreng, Tempe Tempe Mendoan",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/kwuiTjJPqG7scbLg7
+RT249J1,Omah Kupu꧋ꦎꦩꦃꦏꦸꦥꦸ,Indonesia,1.54 km,18000,4.4,Santai,Tidak,"Garang Asem, Kopi, Es Kelapa Muda, Es Jeruk, Tempe Tempe Mendoan, Pecel, Wedang Uwuh, Es Dawet, Gudeg, Soto Ayam, Sayur Lombok Ijo, Urap-Urap, Tempe Benguk",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/zGmgSYW7LoZHyiBY9
+RT250J1,Ayam Goreng Pak Parman,Indonesia,1.94 km,25000,4.3,Santai,Tidak,"Ayam Goreng Kremes, Oseng Kangkung, Telur Dadar, Tahu Goreng, Peyek, Teh Hangat,Wedang Uwuh, Susu Coklat, Sayur Lombok Ijo",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/1db8rmUoGjQTat3c9
+RT251J1,Bakmi Soto dan Ayam Goreng Mbah Noto,Indonesia,5.95 km,38000,4.5,Santai,Tidak,"Bakmi Godog, Bakmi Goreng, Magelangan, Ayam Goreng, Ayam Bakar, Rica-Rica, Sop Ayam, Nasi Goreng, Wedang Jahe, Es Jeruk, Jeruk Panas, Teh Hangat, Kopi, Teh Poci",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Yg5ZcpKp9dPs7wzC7
+RT252J1,Soto Tan Proyek,Indonesia,4.62 km,22000,4.4,Santai,Tidak,"Soto Ayam, Soto Daging, Es Teh, Tempe Tempe Mendoan, Es Jeruk, Sate Usus, Perkedel, Sate Telur Puyuh, Piya-piya ",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/qUPhfyAtWVb9QHCo9
+RT253J1,Warung Lesehan Pak Kirun,Indonesia,5.03 km,49000,4.2,Santai,Tidak,"Ayam Goreng Kremes, Lele Bakar, Lele Sambel Ijo, Welut Mangut, Lele Mangut, Gurame Bakar, Nila Bakar, Nangka goreng ",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/RG773cpVWg1CAbKp6
+RT254J1,Rumah Makan Seger Waras,Indonesia,3.28 km,33000,4.4,Santai,Tidak,"Ayam Goreng, Ayam Bakar, Nasi Ingkung, Burung Puyuh",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/jUGcF934kQDEuf7u9
+RT255J1,The Manglung View & Resto,Indonesia,5.11 km,82000,4.4,Santai,Tidak,"Nasi Goreng, Roti Bakar, Iga Bakar, Nasi Rawon, Jus Mangga, Wedang Uwuh, Kwetiaw, Nasi Goreng, Fuyunghai, Bakmi Jowo, Pecel, Tongseng, Tomyam",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/4TyneW3EVVfgxarb9
+RT256J1,Gudeg Mbok Lindu ,Indonesia,1.45 km,20000,4.6,Santai,Tidak,"Nasi Gudeg, Bubur Gudeg, Es Teh, Es Jeruk, Air Mineral",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/tpKNMrJJawbt4WW1A
+RT257J1,Lupis Mbah Satinem ,Indonesia,5.75 km,35000,4.6,Santai,Tidak,Kue Lupis,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/5QNjpirVv8Ee78VN7
+RT258J1,Kipo Bu Djito ꦏꦶꦥꦺꦴꦧꦸꦣ꧀ꦗꦶꦠꦺꦴ,Indonesia,4.07 km,49000,4.6,Santai,Tidak,Kue Kipo,Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/rSBpPWXWcLXCDT9B6
+RT259J1,Pasar Pathuk,Indonesia,4.25 km,35000,4.4,Santai,Tidak,"Mie Ayam Bandung, Yammie Pangsit, Wedang Tahu, Nasi Kuning, Martabak, Jenang Gempol, Bakpia Pathok, Ayam Goreng Suntari",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/VwKNdee7r2WQJyUFA
+RT260J1,Kopi ampirono ,Indonesia,3.25 km,25000,4.3,Santai,Tidak,"Nasi Lodeh Kering, Nasi Sambel Terong, Tempe Garit, Bacem Tempe, Telur Dadar, Mie Rebus, Mie Goreng, Pop Mie, Pisang Goreng, Gembleg, Singkong Goreng,  Tempe Mendoan, Kopi Merapi, Teh Kalibiru, Es Milo, Piya-piya ",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/aSpTGtdTDuSMfWz4A
+RT261J1,Angkringan Lik Man ,Indonesia,3.47 km,28000,4.5,Santai,Tidak,"Nasi Kucing, Tempe Bacem, Tahu Bacem, Sate Usus, Sate Keong, Ceker, Tahu Isi, Tempe Mendoan, Jadah Bakar, Kopi Jos, Teh Manis, Lemon Tea, Es Jeruk, Es Tape Ketan, Wedang Jahe",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Jn9sQQ2hqrf6QU2B9
+RT262J1,Lotek dan Gado-Gado Teteg Lempuyangan,Indonesia,1.02 km,18000,4.3,Santai,Tidak,"Gado-gado, Es Teh, Es Jeruk",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/wY2K3BwjmMBMm8KM9
+RT263J1,Panada & Puding RoBin,Indonesia,5.89 km,21000,5,Santai,Tidak,Kue Panada,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/EPrnZDrV5emzu3cP6
+RT264J1,Katombo Sulawesi Grilled Fish,Indonesia,5.03 km,27000,4.6,Santai,Tidak,"Bubur Manado, Ikan Bakar, Udang Bakar, Sop Ikan, Es Pisang Ijo",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/8EcPhrtruoj9zdiV6
+RT265J1,"Cucur gula aren
+KUE APANG BUGIS ꧋ꦏꦸꦮꦺꦄꦥꦁꦧꦸꦒꦶꦱ꧀",Indonesia,3.53 km,28000,5,Santai,Tidak,"Kue Cucur, Serabi, Cung-cung, Bolu Mekar",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/8Qy1ivPW5GYgjxdn8
+RT266J1,"Putu, klepon Lempuyangan",Indonesia,1.34 km,18000,4.6,Santai,Tidak,"Kue Putu, Cenil, Klepon, Serabi, Cung-cung, Bolu Mekar",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/wa5EoSBGRvFNQSWT6
+RT267J1,Martabak Telur & Terang Bulan Rahayu,Indonesia,0.93 km,15000,4.3,Santai,Tidak,"Martabak Telur, Terang Bulan",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/YerWDBFE2W6g1kz6A
+RT268J1,Martabak Internasional,Indonesia,0.78 km,18000,4.4,Santai,Tidak,Martabak Manis,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/bnihabh15DcF6uPL6
+RT269J1,Kolak Pisang Biji Selasih,Indonesia,1.2 km,30000,4.3,Santai,Tidak,Kolak Pisang,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/Mjo5CZaXar7Z9a7C8
+RT270J1,Lapis Legit Langgeng Sari,Indonesia,0.42 km,22000,4.3,Santai,Tidak,"Kue Lapis, Cung-cung ",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/XzDUiernuPRPTXVA8
+RT271J1,Kue Bandung & Pukis Ko Ayung Kotabaru,Indonesia,3.24 km,56000,4.4,Santai,Tidak,"Kue Pukis, Terang Bulan",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/s9QNE8D2LuxZp13i7
+RT272J1,Es Buah Gerjen Keraton Yogyakarta,Indonesia,3.26 km,28000,4.7,Santai,Tidak,"Es Buah, Es Campur",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/RfT7TZKKfQDbnb68A
+RT273J1,"Nasi Liwet Bu Wongso Lemu ""Asli Solo"" Kotagede꧋ꦤꦱꦶꦭꦶꦮꦼꦠ꧀ꦧꦸꦮꦺꦴꦁꦱꦺꦴꦊꦩꦸ""ꦄꦱ꧀ꦭꦶꦱꦺꦴꦭꦺꦴ""ꦏꦺꦴꦠꦒꦺꦣꦺ",Indonesia,1.18 km,28000,4.8,Santai,Tidak,Nasi Liwet,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/amqL3BJTm721f86H7
+RT274J1,Kedai Djoema Roti Canai dan Teh Tarik,Indonesia,3.54 km,23000,4.9,Santai,Tidak,"Roti Canai, Teh Tarik, Cung-cung ",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/ovEUsh8kiDkNKDJ66
+RT275J1,GH Corner,Indonesia,0.51 km,21000,4.5,Santai,Tidak,"Nasi Biryani, Nasi Lemak, Nasi Goreng, Roti Canai, Tomyum, Roti Tisu, Es Teh, Teh Tarik",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/ZVeGwwo9UURP9Wmc6
+RT276J1,MIE ACEH DUTA SERAMBI,Indonesia,4.14 km,20000,4.2,Santai,Tidak,"Nasi Goreng, Mie Aceh, Teh Tarik, Kopi",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/BAJaPqE4uL62Q1sJ6
+RT277J1,Mie Aceh Rempah Pasai Nologaten,Indonesia,1.58 km,43000,4.7,Santai,Tidak,"Mie Aceh, Roti Canai, Es Teh",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/pt8D8G8NRunwN3DX7
+RT278J1,Warung Rendang,Indonesia,0.25 km,17000,4.6,Santai,Tidak,"Nasi Rendang, Nasi Goreng, Es Jeruk, Mie Goreng",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/pPCht6SP2wzdULYFA
+RT279J1,Soto Kudus Pak Dewo,Indonesia,0.39 km,22000,4.2,Santai,Tidak,"Soto Kudus, Soto Ayam, Soto Sapi",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/5kmj1K5kq5stevbHA
+RT280J1,Soto Kudus & Nasi Pindang Inna,Indonesia,1.87 km,23000,4.4,Santai,Tidak,"Nasi Pindang, Soto Kudus, Es Teh",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/bihCWfLhasdi4jru6
+RT281J1,Ayam penyet surabaya Parangtritis,Indonesia,1.15 km,22000,4.3,Santai,Tidak,"Ayam Bakar, Ayam Goreng, Ayam Penyet",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Y4n6u6hGz1UuhHHZ6
+RT282J1,Jadah Tempe Mbah Carik Kaliurang (Kotagede),Indonesia,4.08 km,23000,4.5,Santai,Tidak,"Jadah, Tempe Bacem",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/LeLbHXpjYwLkv5Sh7
+RT283J1,Rumah Makan Padang Minang Ria - Yogyakarta,Indonesia,1.38 km,15000,4.4,Santai,Tidak,"Ayam Pop, Nasi Padang, Ayam Bakar, Es Teh",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/hEbk8uM3gT5uBR6N6
+RT284J1,Brongkos dan Es Teller Soekonandi,Indonesia,1.52 km,18000,4.4,Santai,Tidak,"Es Teler, Brongkos",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/PeJuZkMUspqZ5JceA
+RT285J1,"Lotek, Gado-Gado & Nasi Rames Bu Barinah",Indonesia,4.95 km,28000,4.3,Santai,Tidak,"Lotek, Gado-Gado, Nasi Rames ",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/i3kKTZgdnG4PVLbH8
+RT286J1,Gudeg Wijilan Bu Hj. Rini,Indonesia,3.06 km,22000,4.4,Santai,Tidak,"Gudeg, Rendang",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/Yfjv6naqNauFKkHR6
+RT287J1,Gudeg Mbok Lindu,Indonesia,1.4 km,32000,4.6,Santai,Tidak,"Gudeg, Cendol, Nasi Goreng ",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/dCoZsKB3BKXY925C8
+RT288J1,"Pempek & Siomay ""Ulu Bundar""",Indonesia,2.73 km,34000,4.3,Santai,Tidak,"Pempek, Tekwan",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/idau5rPs82HCYFnV7
+RT289J1,Pempek Ny. Kamto Sagan,Indonesia,2.11 km,22000,4.6,Santai,Tidak,"Pempek, Tekwan",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/cDQgY124tXWQ5nKL8
+RT290J1,Rawon & Soto Lamongan Cak Sukar,Indonesia,1.47 km,14000,4.6,Santai,Tidak,"Rawon, Soto Ayam, Tahu Campur",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/a2uzRCm8htSmJvcg8
+RT291J1,Depot Rawon Surabaya.,Indonesia,3.01 km,16000,4.4,Santai,Tidak,"Ayam Penyet, Rawon, Soto Ayam, Es Teh, Es Jeruk",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/KJ4vmZpvZU8eft7A8
+RT292J1,The House Of Ruminten,Indonesia,1.13 km,25000,4.5,Santai,Tidak,"Wedang Ronde, Wedang Serai, Kopi Jahe, Wedang Bajigur, Wedang Bandrexs, Fuyunghai, Ayam Goreng, Ayam Geprek, Sate Lilit, Telor Bakar,",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/FrzTQGdZNigvbvf17
+RT293J1,Soto Sampah,Indonesia,0.85 km,27000,4.3,Santai,Tidak,Soto Ayam,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/uR5NDp4cyXM9pCVr7
+RT294J1,SGPC Bu Wiryo 1959,Indonesia,1 km,21000,4.3,Santai,Tidak,"Ayam Goreng, Nasi Pecel",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/46oQwHB4S7QgcYkV7
+RT295J1,Ayam Geprek Bu Rum 1,Indonesia,2.2 km,43000,4.5,Santai,Tidak,ayam Geprek,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/xzzHLkkZWizZtAuT8
+RT296J1,Warung Brongkos Handayani,Indonesia,1.62 km,18000,4.5,Santai,Tidak,"Nasi Rames, Nasi Brongkos, Soto Ayam, Nasi Pecel, Wedang Uwuh",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Zqvs4gS3hxN7rCVJA
+RT297J1,Gudeg Bromo Bu Tekluk,Indonesia,0.75 km,16000,4.3,Santai,Tidak,Nasi Gudeg,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/K5HrVrMDjQGUykE49
+RT298J1,Pempek MC Oji,Indonesia,1.26 km,42000,4.3,Santai,Tidak,"Pempek, Tekwan, Adaan",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/um5EWyn7FzsSxFh8A
+RT299J1,Gubug Makan Mang Engking Soragan Castle,Indonesia,3.1 km,17000,4.5,Santai,Tidak,"Ayam Goreng, Sop Iga, Tempe Mendoan, Karedok, Capcay, Piya-piya ",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/2hD5Mc2mxuzmSWuf7 
+RT300J1,Kepik Sawah,Indonesia,2.84 km,17000,4.2,Santai,Tidak,"Belut Krispi, Tempe Mendoan, Wader Krispi",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/3V7249wtK4PGtNvn7
+RT301J1,Sate Ratu,Indonesia,0.51 km,17000,4.7,Santai,Tidak,"Sate Lilit, Sate Merah, Sate Kanak,Sate Kulit",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/6EkFsSNABks5JrUNA 
+RT302J1,Rumah Makan Bakso ITO,Indonesia,3.06 km,27000,4.4,Santai,Tidak,Bakso,Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/28iZJYAxXZHKkoaVA
+RT303J1,Rumah Makan Plecing Kangkung,Indonesia,3.23 km,39000,4.4,Santai,Tidak,"Plecing Kngkung, Ayam Baluran, Lele Baluran, Babat Baluran",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Cg7K5vuX7Y6maAjPA
+RT304J1,Rumah Makan Soto Ayam 61,Indonesia,3.01 km,19000,4.3,Santai,Tidak,Soto Ayam,Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/iBow7XXaWN3btNMX7
+RT305J1,Restoran Taman Pringsewu Yogyakarta,Indonesia,1.44 km,18000,4.4,Santai,Tidak,"Ayam Bakar, Tempe Mendoan, Ayam Krispi, Piya-piya ",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/a5K4LotcvdGPidLa6 
+RT306J1,Sleko X Godagado Spesialis Makanan Khas Jawa Timur,Indonesia,0.83 km,22000,4.9,Santai,Tidak,"Gado-gado, Nasi Pecel, Rawon",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/zZDZsP8MMRj5oPct5
+RT307J1,Bubur Hayam Kotabaru,Indonesia,2.13 km,40000,4.4,Santai,Tidak,"Bubur Ayam, Bubur Ketan Hitam",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/SwGiN26tZvmQHaab9
+RT308J1,Rumah Makan Padang Minang Ria - Yogyakarta,Indonesia,3.1 km,16000,4.3,Santai,Tidak,"Nasi Padang, Krecek, Telur dadar, Ayam Pop, Tunjang, Es Teh, Es Jeruk ",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/s2VeJwvFNsPQahib8
+RT309J1,Klotok Coffeshop,Indonesia,3.73 km,41000,4.5,Santai,Tidak,"Sayur Lodeh, Ayam Goreng, Pindang Goreng,Kopi Klotok, ",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/HoAKgGRyvh9NXizz6
+RT310J1,Pawon Mbah Gito,Indonesia,5.58 km,25000,4.6,Santai,Tidak,"Empal Gepuk, Ayam Goreng, Sop Iga, Kopi Jahe",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/8wodYA3AuPMdFvoS6
+RT311J1,Rumah Makan Duta Minang - Sudirman,Indonesia,1.97 km,19000,4.4,Santai,Tidak,"Nasi Padang, Krecek, Telur dadar, Ayam Pop",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/MPQPH7uiedsgr9w66
+RT312J1,Jogja Airport Resto,Indonesia,3.17 km,132000,4.4,Santai,Tidak,"Capcay, Urap Sayuran",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/76f5q3DAPNw5CH1m8 
+RT313J1,Bakmi Jombor Yogyakarta - Javanese Noodle,Indonesia,0.65 km,15000,4.2,Santai,Tidak,"Bakmi, Capcay, Rica Rica Ayam, Mie kopyok",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/nizWqwNyfYmSgGxe9
+RT314J1,Ayam Pedas Artomoro,Indonesia,5.2 km,29000,4.5,Santai,Tidak,Ayam Bakar,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/Wce3jUyFzeKjNNde9
+RT315J1,Bale Raos - The Sultan's Dishes,Indonesia,5.76 km,62000,4.5,Santai,Tidak,"Ayam Balado, Semur Daging, Es Dawet, Garang Asem",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/3hYB8MpPLqLNRePy5
+RT316J1,Rumah Makan Cabe Uleg,Indonesia,3.24 km,38000,4.5,Santai,Tidak,"Ayam Goreng, Bakmi, Capcay",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Yo2chzX17p6PyNTP8
+RT317J1,Yammie Pathuk Kemetiran Kidul Yogyakarta,Indonesia,4.3 km,28000,4.5,Santai,Tidak,Mie Pangsit. Bakso,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/WgffAB5RwCpTwmjA8
+RT318J1,Lombok Idjo Jogja Adisoetjipto,Indonesia,1.46 km,22000,4.5,Santai,Tidak,"Ayam, Goreng, Ayam Bakar, Empal Goreng",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/qruqh7cYhPQk2fXy7
+RT319J1,Sekar Kedhaton Restaurant,Indonesia,5.54 km,40000,4.5,Santai,Tidak,"Wedang Jahe, Rawon, Garang Asem, Ayam Goreng",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/FkunFP9uKrKTAoKf9
+RT320J1,Kupat Gule Bang Doel,Indonesia,0.72 km,25000,4.7,Santai,Tidak,"Kupat Gule, Es Podeng ",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/xT1Rq1JWjkPviRGh6
+RT321J1,Ayam Tulang Lunak Hayam Wuruk Taman Siswa,Indonesia,4.61 km,30000,4.5,Santai,Tidak,"Tahu Telor, Ayam Goreng, Ayam Bakar, Gurami Bakar",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/tkk6dsojCcbDc8LX8
+RT322J1,Ketoprak Jakarta Mba Tina,Indonesia,5.22 km,49000,4.9,Santai,Tidak,Ketoprak,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/VAHoqc6KVH6C8v8R6
+RT323J1,Gudeg Yu Djum,Indonesia,4.79 km,30000,4.3,Santai,Tidak,Gudeg,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/PiTN8cccEbmtwhDk9
+RT324J1,Gudeg Bu Slamet,Indonesia,5.29 km,59000,4.5,Santai,Tidak,Gudeg,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/NAtVYLBd5STSv7sG6
+RT325J1,Soto Pites Mbah Galak,Indonesia,5.91 km,32000,4.7,Santai,Tidak,"Soto Sapi, Soto Ayam",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/azWXZPugqTaAuof29
+RT326J1,Gudeg Sagan,Indonesia,2.25 km,22000,4.7,Santai,Tidak,Gudeg,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/YyC988NHBEVZgrMQ6
+RT327J1,Madam Tan Indonesian Food,Indonesia,6.2 km,40000,4.3,Santai,Tidak,"Otak Otak, Lumpia, Tahu Pong, Gurami Bakar",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/WXJG6sMDajxy3tiw6
+RT328J1,"KABOBS - Premium Kebab, Taman Siswa Yogyakarta",Indonesia,0.75 km,26000,4.6,Santai,Tidak,Kebab,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/2MQDpjbz6hGC5rHa7
+RT329J1,Gudeg Yu Djum Wijilan 31,Indonesia,1.5 km,17000,4.5,Santai,Tidak,Gudeg,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/KyxNchPZSvH4Z1qh9
+RT330J1,Pempek Ny. Kamto Beskalan,Indonesia,5.55 km,120000,4.5,Santai,Tidak,"Pempek, Tekwan",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/nP2joZyGHDt1MeKa7
+RT331J1,Soto Keraton Alun-Alun Lor Yogyakarta,Indonesia,3.58 km,26000,4.4,Santai,Tidak,"Soto Ayam, Ayam Geprek,",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/2rqU6KP7vcmiNkek7
+RT332J1,Empal Bu Warno (cabang beringharjo),Indonesia,2.33 km,23000,4.6,Santai,Tidak,Empal,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/nhjErvPezpPXo14U6
+RT333J1,Gudeg Bu Widodo,Indonesia,2.84 km,36000,4.2,Santai,Tidak,Gudeg,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/h9RAZgW8ULXHh6rB7
+RT334J1,"Tengkleng Bhenjoyo, Keraton",Indonesia,0.99 km,17000,4.5,Santai,Tidak,"Tengkleng Kuah, Tengkleng Goreng, Sate Goreng, Wedang Uwuh, Wedang Secang",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/t1g5Ng8yqASv7aq69
+RT335J1,Gudeg Yu Narni Tugu,Indonesia,4.87 km,35000,4.4,Santai,Tidak,Gudeg,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/VpsU6kRzdZXGDQLM7
+RT336J1,Duta Minang Yogyakarta,Indonesia,0.74 km,30000,4.4,Santai,Tidak,Nasi Padang,Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/XRs9rZNUxwby3tDY8
+RT337J1,Gudeg mbarek Bu Hj Amad PDHI Alun2 Utara,Indonesia,5.68 km,16000,4.2,Santai,Tidak,Gudeg,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/dienHmtV9drGmrCj7
+RT338J1,Gudeg Wijilan Bu Atik,Indonesia,3.01 km,21000,4.4,Santai,Tidak,Gudeg,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/PDy8QU6zaa2KWPCLA
+RT339J1,Rumah Makan Ayam Dan Bebek Brontak Cabang Jogja(꧋ꦫꦸꦩꦃꦩꦏꦤ꧀ꦄꦪꦩ꧀ꦝꦤ꧀ꦧꦺꦧꦺꦏ꧀ꦧꦿꦺꦴꦤ꧀ꦠꦏ꧀ꦕꦧꦁꦗꦺꦴꦒ꧀ꦗ),Indonesia,5.11 km,82000,4.6,Santai,Tidak,"Ayam Goreng, Ca Kangkung, Ca Toge, Bebek Plencing",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/hpS59yqBYDKP2wSj7
+RT340J1,"PITIK REMPAH ( PENYETAN AYAM REMPAH , MAKANAN INSTAN DAN ANEKA MINUMAN )",Indonesia,6.4 km,66000,4.4,Santai,Tidak,Ayam Rempah,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/7umq57wEJHeFt4bp8
+RT341J1,Es Jaipong Gaul,Indonesia,1.56 km,22000,4.6,Santai,Tidak,Es Jaipong ,Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/43xrLCGbHuhGK2jK9
+RT342J1,"Es Doger, Batagor, Siomay Balai Yasa",Indonesia,6.09 km,32000,4.4,Santai,Tidak,"EsDoger, Batagor, Siomay",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/TDab6AhLqFFJV8QS8
+RT343J1,Resto Racikan & Kopi Ponti,Indonesia,1.32 km,12000,4.5,Santai,Tidak,"Kopi Jahe, Kopi Saring, Teh Sereh, Jahe Sereh, Es Dawet",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/X4XyrP4rFQpzq7qf9
+RT344J1,Es Jaipong Kang Aceng,Indonesia,2.47 km,108000,4.5,Santai,Tidak,"Es Jaipong, Es Podeng ",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/4LdXnXeaD7kNayvC6
+RT345J1,Wedang Tahu Bu Sukardi,Indonesia,2.42 km,50000,4.7,Santai,Tidak,Wedang Tahu,Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/NSBior7d3acL39TC9
+RT346J1,Rempah Asia,Indonesia,1.34 km,26000,4.2,Santai,Tidak,"Nasi Goreng, Roti Canai, Nasi Lemak",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/2oAdzvekrJ7wXf4z6
+RT347J1,Wedang Ayu Bu Sui,Indonesia,0.53 km,20000,4.7,Santai,Tidak,Wedang Ayu,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/QhY3gdf9cAyyHg9m7
+RT348J1,Wedang Tahu Bu Sukardi Cabang Mirota,Indonesia,2.28 km,20000,4.9,Santai,Tidak,Wedang Tahu,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/vXrtR86x5SdHFq8NA
+RT349J1,Wedang Ronde pak Tulus ꧋ꦮꦺꦣꦁꦫꦺꦴꦤ꧀ꦝꦼꦥꦏ꧀ꦠꦸꦭꦸꦱ꧀,Indonesia,2.91 km,22000,4.5,Santai,Tidak,Wedang Ronde,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/de5dFkmNvb7ybkhL9
+RT350J1,Selawase Wedangan,Indonesia,1.38 km,15000,4.7,Santai,Tidak,"Ayam Goereng, Tempe Mendoan, Sayur Lodeh, Empal Bacem,",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/DtdbKFR49fGt8eiVA
+RT351J1,Tahu Gimbal Pak Yono,Indonesia,3.01 km,21000,4.5,Santai,Tidak,Tahu Gimbal,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/6syUMk2pCEbWSLoy9
+RT352J1,Bakmi & Bajigur Kadin Mbah Hj. Karto Pak Rochadi,Indonesia,0.72 km,25000,4,Santai,Tidak,"Bakmi, Capcay, Wedang Bajigur, Teh Jahe, Jahe Sereh, Mie kopyok",Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/Xm6ELZzwiXeQC92f6
+RT353J1,Warung WEDANG BAJIGUR 49(ꦮꦫꦸꦁꦮꦺꦣꦁꦧꦗꦶꦒꦸꦂ꧇꧔꧙꧇),Indonesia,3.01 km,19000,4.6,Santai,Tidak,"Wedang Bajigur, Nangka goreng ",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/3N841Ew6H75baUVg6
+RT354J1,Lumpia Rebung Bu Tatik (ꦭꦸꦩ꧀ꦥꦶꦪꦉꦧꦸꦁꦧꦸꦠꦠꦶꦏ꧀),Indonesia,0.53 km,19000,4.2,Santai,Tidak,Lumpia Rebung,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/Rrxtv8Y5Pt7c3zX19
+RT355J1,Waroeng Sambal Lamongan(ꦮꦫꦺꦴꦮꦺꦁꦱꦩ꧀ꦧꦭ꧀ꦭꦩꦺꦴꦔꦤ꧀),Indonesia,3.06 km,16000,4.3,Santai,Tidak,"Ayam Krispi, Pepes, Es Podeng ",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/36efXQcbQjw2TtxGA
+RT356J1,Lotek & Gado-Gado Bu Bagyo Colombo,Indonesia,3.02 km,19000,4.4,Santai,Tidak,"Kopi Uwuh, Lotek, Gado gado",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/szFvjRS3f287s3136
+RT357J1,Oseng-oseng Mercon Bu Narti,Indonesia,3.1 km,20000,3.8,Santai,Tidak,"Babat Goreng, Ayam Goreng, Oseng Oseng Mercon",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/bMo9BTuReCJ9zhLP6
+RT358J1,Gudeg Bu Tjitro 1925,Indonesia,0.43 km,24000,4.7,Santai,Tidak,"Gudeg, Es Podeng ",Tidak,2,2,Disajikan,Ala Carte,https://maps.app.goo.gl/MtpxF2J1845vHfcBA
+RT359J1,Lontong Tahu Blora Bu Pudji,Indonesia,0.53 km,19000,4.6,Santai,Tidak,"Lontong Tahu, Kupat Tahu, Soto Daging, Es Dawet, Es Teh, Es Jeruk ",Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/aXd6QbZsuDGjBGrLA
+RT360J1,Dapur Bupati Jogja,Indonesia,0.76 km,27000,4.4,Santai,Tidak,"Sayur Lodeh, Ayam Goreng, Brongkos Daging, Sayur Asem, Gulai Ayam,Ayam Bakar, Tempe Mendoan, Mie kopyok, Piya-piya ",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/euPx81DwtFteBagM8
+RT361J1,Sate Babi Maranatha,Indonesia,6.4 km,25000,4.7,Santai,Tidak,Sate Babi,Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Tf2xnXJjqyx6gzPo8
+RT362J1,Warung 52 Babi Panggang & Spesial Menu Babi Favorit Jogja,Indonesia,2.33 km,31000,4.4,Santai,Tidak,"Babi Panggang, Babi cabe Garam",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/6pKgvNB5n4aZuDU6A
+RT363J1,Bakso Babi Pak Gundul,Indonesia,6.02 km,92000,4.5,Santai,Tidak,Bakso Babi,Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/gXrKniRT4Brz2nMp7
+RT364J1,Ayam Kampung Goreng Kebon Ndhelik Bausasran,Indonesia,1.42 km,33000,4.4,Santai,Tidak,"Ayam Goreng, Jeroan Sapi",Tidak,1,3,Disajikan,Ala Carte,https://maps.app.goo.gl/EBh5SH2kHJfjHovJ8
+RT365J1,Nasi Pecel Bu Dwi Asli Madiun,Indonesia,5.24 km,28000,4.4,Santai,Tidak,"Nasi Pecel, Nasi Rames, Nasi Rawon",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/NpYUfndibeJt7SGm8
+RT366J1,Gudeg Wijilan Bu Lies,Indonesia,1.1 km,13000,4.4,Santai,Tidak,"Gudeg, Wedang Uwuh, Es Podeng ",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/M9ceGBSvhVWc2XTw8
+RT367J1,Sate Kambing Asli Tambaksegaran Yogyakarta,Indonesia,2.07 km,42000,4.3,Santai,Tidak,"Sate Buntel, Nasi Gule, Sate Ati",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/1Fw1UEDjB1cc1jJc6
+RT368J1,Mie Ayam Bu Tumini Sari Rasa Jati Ayu,Indonesia,1.49 km,18000,4.5,Santai,Tidak,Mie Ayam,Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/H9tJfdyqbn96kXdE9
+RT369J1,Gudeg Wijilan Bu Is,Indonesia,4.13 km,28000,4.7,Santai,Tidak,Gudeg,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/uhy86eJbXamVRmmE6
+RT370J1,Gudeg Permata Bu Narti,Indonesia,0.29 km,17000,4.5,Santai,Tidak,Soto Ayam,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/LLngPPtVwJzAcPcz8
+RT371J1,Soto Ayam Kampung dan Brongkos Bu Rini,Indonesia,2.08 km,45000,4.4,Santai,Tidak,"Soto Ayam, Brongkos, Gorengan, Baceman, Teh Es/Panas",Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/37SUkYYw7sxUt3wXA
+RT372J1,Soto Djiancuk ꧋ꦱꦺꦴꦠꦺꦴꦣ꧀ꦗꦶꦪꦚ꧀ꦕꦸꦏ꧀,Indonesia,1.91 km,28000,4.4,Santai,Tidak,"Soto, Nasi Putih, Sate Ayam, Sate Keong, Krupuk Kaleng, Gorengan, Teh Manis Es/Panas, Teh Tawar, Es/Panas, Lemon Tea Es/Panas, Kopi Es/Panas, Coklat Es/Panas, White Coffe Es/Panas, Susu Putih Es/Panas, Susu Coklat Es/Panas, Good Day Mocacinno Es/Panas, Good Day Vanilla Latte Es/Panas, Good Day Chococinno Es/Panas, Good Day Coolin Es/Panas, Good Day Carrebian Nut Es/Panas, Soda Gembira, Air Putih Es/Panas, Wedang Uwuh, Jahe, Susu Jahe",Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/jZG8V5otTdNKw7ny8
+RT373J1,Bingke Pontianak Permata,Indonesia,3.72 km,25000,4.4,Santai,Tidak,Bingke Pontianak,Tidak,4,2,Disajikan,Ala Carte,https://maps.app.goo.gl/kBd3rntuLwYZW4Uy8
+RT374J1,Gudeg Bu Djuminten,Indonesia,1.08 km,28000,4.5,Santai,Tidak,"Nasi Gudeg, Teh Tawar/Manis, Jeruk Panas/ Dingin, Tape Panas/Dingin, Beras Kencur, Es Beras Kencur, Kopi Panas/Dingin, Kopi Gingseng, Teh Tarik, Es Teh Tarik, Le Minerale, Air Es, Mie kopyok",Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/LZeoWC5kvwytEHqe7
+RT375J1,Coto Makassar & Es Pisang Ijo Khansa,Indonesia,0.86 km,14000,4.3,Santai,Tidak,"Soto Makasar, Nasi Goreng Merah, Sop Paru, Sop Ubi, Bakso Buras, Penyetan, Mie Goreng/Kuah, Jalangkote, Konro, Ketupat/Buras, Pisang Epe, Es Pisang Ijo, Es Campur, Es Palubujung, Es Cincau, Sup Buah, Es Teh / Es Jeruk, Gorengan, Mie kopyok",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/74151trAQRDspeEp7
+RT376J1,Es Cendol Pathi Onggok Gula Jawa Pak Alex,Indonesia,1.23 km,20000,4.6,Santai,Tidak,Es Cendol,Tidak,1,1,Disajikan,Ala Carte,https://maps.app.goo.gl/H5KKE2yxwReKyU3A7
+RT377J1,Es Dawet Pak Slamet Sonosewu,Indonesia,1.37 km,15000,4.6,Santai,Tidak,Es Dawet,Tidak,4,3,Disajikan,Ala Carte,https://maps.app.goo.gl/kzJ94q2Ut1gnxRLq7
+RT378J1,Es Cemot Nusantara,Indonesia,3.24 km,44000,4.2,Santai,Tidak,Smoothies Buah,Tidak,2,1,Disajikan,Ala Carte,https://maps.app.goo.gl/Z34Dyv5eKBdnhhBE9
+RT379J1,Rujak Es Krim Pak Paino,Indonesia,3.84 km,120000,4.7,Santai,Tidak,"Rujak Es Krim, Es Podeng ",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/vHwWocghi5ZCXUsH8
+RT380J1,Tahu Kupat & Es Dawet Ayu Khas Banjarnegara,Indonesia,3.7 km,26000,4.3,Santai,Tidak,Tahu Kupat dan Es Dawet Ayu,Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/MY64EQaNVQfuzBZv8
+RT381J1,Aneka Jenang Kedai Jagoan,Indonesia,3.63 km,32000,4.5,Santai,Tidak,"Permata Delima, Mawar Mutiara, Putri Giok, Burjo, Putri Salju, Permata Hitam, Nira Duana, Sarang Naga, Telur Naga, Karmila, Bubur, Campur",Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/TxMRGxC4yoC6WXWy7
+RT382J1,Es Dung-Dung,Indonesia,4.55 km,23000,4.6,Santai,Tidak,"Es Dung Dung, Es Podeng ",Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/AtxHtPWzxDo6uMSu8
+RT383J1,Es Teler 77,Indonesia,3.71 km,73000,3.9,Santai,Tidak,"Es Teler, Es Podeng ",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/Vs6Ngx5HZaWQrjCc9
+RT384J1,Wedang Bajigur Pak Darmo,Indonesia,2.35 km,17000,4.3,Santai,Tidak,Wedang Bajigur,Tidak,4,1,Disajikan,Ala Carte,https://maps.app.goo.gl/r1Ko4wfty4Pzc3zH8
+RT385J1,WEDANG BLANGKON,Indonesia,3.66 km,40000,4.9,Santai,Tidak,"Wedang Jahe, Wedang Susu Rempah, Susu Jahe,  ",Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/sLW7B6UyjXkG7o656
+RT386J1,Wedang Bajigur Bu Jilah꧋ꦮꦺꦣꦁꦧꦗꦶꦒꦸꦂꦧꦸꦗꦶꦭꦃ,Indonesia,1.51 km,30000,4.5,Santai,Tidak,Wedang Bajigur,Tidak,3,2,Disajikan,Ala Carte,https://maps.app.goo.gl/AT8dpneR2w8JkZsM9
+RT387J1,Wedang Bajigur dan Nasi Langgi,Indonesia,1.1 km,19000,4.9,Santai,Tidak,"Wedang Bajigur, Wedang Uwuh, Wedang Jahe Serai, Wedang Seruni, Teh Lemon Telang, Teh Rosella, Kopi Tape, Kopi Jahe",Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/zuKJsGcEC5BKdejr8
+RT388J1,Wedangan & Bakmi Jawa @ Ndalem Pakuningratan,Indonesia,3.16 km,45000,4.7,Santai,Tidak,"Teh Pakoeningratan, Wedang Pendhapa, Wedang Uwuh, Wedang Secang, Bir Susu, Cireng, Tempe Mendoan, kentang Goreng, Pisang Goreng, Cekokan",Tidak,2,3,Disajikan,Ala Carte,https://maps.app.goo.gl/tjnYMFCw7FBCYgq18
+RT389J1,Bakpia Jogkem Ireda,Indonesia,0.86 km,15000,4.4,Santai,Tidak,Bakpia,Tidak,5,2,Disajikan,Ala Carte,https://maps.app.goo.gl/udryBzg5vJoDu3VG8
+RT390J1,Bakpia Kukus Tugu Jogja Istimewa Gondomanan - Oleh oleh Khas Jogja,Indonesia,1.52 km,42000,4.8,Santai,Tidak,Bakpia,Tidak,1,2,Disajikan,Ala Carte,https://maps.app.goo.gl/sogZk9UX33gp3KaVA
+RT391J1,Bakpia Pathok 694,Indonesia,1.43 km,10000,4.3,Santai,Tidak,Bakpia,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/fWHxQ3mXDNQ2M9V67
+RT392J1,Bakpia Kurnia Sari,Indonesia,1.94 km,23000,4.4,Santai,Tidak,Bakpia,Tidak,3,3,Disajikan,Ala Carte,https://maps.app.goo.gl/B57CyonsVADgWsCb7
+RT393J1,BAKPIAKU Gajah Mada,Indonesia,4.06 km,17000,4.5,Santai,Tidak,Bakpia,Tidak,3,1,Disajikan,Ala Carte,https://maps.app.goo.gl/XanEULuR6wHtLpE46
