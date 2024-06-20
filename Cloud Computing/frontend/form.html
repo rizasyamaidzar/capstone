@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIY Food </title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css"  rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+          theme: {
+            extend: {
+              colors: {
+                hijau: '#004225',
+                kuning :'#FF7622'
+              }
+            }
+          }
+        }
+      </script>
+</head>
+<body>
+
+    <!-- navbar -->
+    <nav class="bg-hijau">
+        <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+          <div class="relative flex h-16 items-center justify-between">
+            <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+              <div class="flex flex-shrink-0 items-center">
+                <a href="index.html"><img class="h-8 w-auto" src="img/logo/logo (2).png" alt="Your Company"></a>
+              </div>
+              <div class="hidden sm:ml-6 sm:block">
+             
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <!-- Mobile menu, show/hide based on menu state. -->
+        <div class="sm:hidden" id="mobile-menu">
+          <div class="space-y-1 px-2 pb-3 pt-2">
+            <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+            <a href="#" class="block rounded-md bg-gray-900 px-3 py-2 text-base font-medium text-white" aria-current="page">Dashboard</a>
+            <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Team</a>
+            <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Projects</a>
+            <a href="#" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Calendar</a>
+          </div>
+        </div>
+      </nav>
+    <!-- END navbar -->
+
+    <form id="search-form" class="max-w-xl mx-auto my-16">
+      <h2 class="container font-bold text-2xl my-2 text-kuning ">Survey</h2>
+      <label for="category" class="block mb-2 text-lg font-medium text-gray-900 dark:text-white">Silahkan pilih salah satu kategori  kuliner yang pas untuk anda!</label>
+        <select type="text" id="category" name="category" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+          <!-- <input  required> -->
+          <option value="Makanan Berat">Makanan Berat</option>
+          <option value="Makanan Ringan">Makanan Ringan</option>
+          <option value="Jajanan">Jajanan</option>
+          <option value="Minuman">Minuman</option>
+        </select>
+        
+        <label for="taste" class="my-5 block mb-2 text-lg font-medium text-gray-900 dark:text-white">Masukkan rasa yang kamu inginkan!Seperti asin, berkuah, pedas.</label>
+        <input type="text" id="taste" name="taste" required rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Masukkan rasa keinginanmu">
+        <button type="submit" class="bg-hijau my-10 w-full p-5 text-white font bold rounded rounded-lg">Search</button>
+    </form>
+    
+    <section class="container mx-auto mt-10">
+        <img class="w-40 h-40 rounded mx-auto my-5" src="img/logo/logo hijau.png" alt="Jese image">
+          <div class="flex items-start gap-2">
+            <div id="restaurant-list" class="mx-auto"></div>
+          </div>
+    </section>  
+
+    <script>
+      // Function to handle form submission
+      function searchRestaurants(category, taste) {
+          // Endpoint URL menggunakan proxy PHP di server backend
+          const endpoint = `proxy.php?category=${encodeURIComponent(category)}&taste=${encodeURIComponent(taste)}`;
+          console.log(endpoint)
+          // Fetch data dari endpoint proxy
+          fetch(endpoint)
+              .then(response => {
+                  if (!response.ok) {
+                      throw new Error('Network response was not ok');
+                  }
+                  return response.json();
+                  console.log(response.json())
+              })
+              .then(data => {
+                  // Proses data respons dari API
+                  console.log("API Response:", data);
+
+                  // Kosongkan hasil sebelumnya
+                  document.getElementById('restaurant-list').innerHTML = '';
+
+                  // Tampilkan hasil
+                  data.forEach(restaurant => {
+                      const restaurantItem = document.createElement('div');
+                      restaurantItem.classList.add('restaurant-item');
+                      restaurantItem.innerHTML = `
+                          <div class="flex flex-col w-full max-w-4xl mx-auto leading-1.5 p-4 border-gray-200 bg-gray-100 rounded-e-xl rounded-xl dark:bg-gray-700 ">
+                          <a href="resto.php?keyword=${restaurant.Makanan}" class="bg-gray-50 dark:bg-gray-600 rounded-xl p-4 mb-2 hover:bg-gray-200 dark:hover:bg-gray-500 shadow-lg shadow-grey-600">
+                          <img src="${restaurant.foto}" class="w-full h-96 rounded-lg mb-2 bg-fit" />
+                          <span class=" font-medium text-gray-900 dark:text-white mb-2 text-2xl">${restaurant.Makanan}</span>
+                          <p>Kategori: ${restaurant.kategori}</p>
+                          <p>Deskripsi Rasa: ${restaurant.deskripsi_rasa}</p>
+                          </a>
+                          </div>
+                      `;
+                      document.getElementById('restaurant-list').appendChild(restaurantItem);
+                  });
+              })
+              .catch(error => {
+                  console.error('Error fetching data:', error);
+                  document.getElementById('restaurant-list').innerHTML = '<p>Error retrieving restaurants. Please try again later.</p>';
+              });
+      }
+
+      // Event listener untuk pengiriman formulir
+      document.getElementById('search-form').addEventListener('submit', function(event) {
+          event.preventDefault(); // Menghentikan pengiriman formulir secara default
+
+          const category = document.getElementById('category').value;
+          const taste = document.getElementById('taste').value;
+          searchRestaurants(category,taste);
+      });
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
+</body>
+</html>
